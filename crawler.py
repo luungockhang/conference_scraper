@@ -34,3 +34,17 @@ for table in tables:
         #         table_data.append(cell_data)
         #     writer.writerows(table_data)
         #     table_count +=1
+# business
+
+# find table with conference class
+tables = doc.find_all('table',class_="conference")
+
+# take all the rows from tables
+rows = tables.find_all('tr') 
+
+for line in rows:
+    cells = line.find_all('td')
+    for cell in cells:
+        print(cell.string)
+        
+roww = ""
