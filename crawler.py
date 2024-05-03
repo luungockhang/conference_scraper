@@ -21,7 +21,4 @@ with open('output.csv', 'w',encoding='utf-8', newline='') as csvfile:
             table_data.append(cell_data)
         writer.writerows(table_data)
         table_count +=1
-        for line in rows:
-    cells = line.find_all('td')
-    for cell in cells:
-        print(cell.string)
+        
