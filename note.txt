@@ -10,3 +10,7 @@ Câu hỏi:
 
 Dataflow: 
 App Python lấy HTML và lọc thông tin trong HTML đó. Cho hết vào một file csv theo format của nhóm sau khi lọc xong.
+
+
+Đổi branch:
+git checkout <tên branch>
