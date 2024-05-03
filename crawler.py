@@ -20,5 +20,3 @@ for line in rows:
     cells = line.find_all('td')
     for cell in cells:
         print(cell.string)
-        
-roww = ""
