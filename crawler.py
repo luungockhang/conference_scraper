@@ -1,9 +1,10 @@
 from bs4 import BeautifulSoup
+import csv
 import requests
+
 
 # load website
 url = "https://www.lix.polytechnique.fr/~hermann/conf.php"
-
 res = requests.get(url)
 doc = BeautifulSoup(res.text, "html.parser")
 
