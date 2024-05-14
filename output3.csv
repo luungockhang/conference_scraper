@@ -1,111 +1,111 @@
 Conference,"City, Country",Date,Notification,Final version,Early registration,Remarks and other indications
-FLOPSFunctional and Logic Programming,"Kumamoto, Japan",15-17 May 2024,26 January 2024,21 February 2024,30 April 2024,
-ISCOInternational Symposium on Combinatorial Optimization,"Tenerife, Canary Islands, Spain",22-24 May 2024,15 March 2024,15 April 2024,31 March 2024,school 20-21 May 2024
-EUROCRYPTTheory and Applications of Cryptographic Techniques,"Zurich, Switzerland",26-30 May 2024,8 December 202331 January 2024,,26 April 2024,
-"LPARLogic for Programming, Artificial Intelligence and Reasoning",Mauritius,26-31 May 2024,1 April 2024,5 April 2024,16 May 2024,
-SIROCCOStructural Information and Communication Complexity,"Vietri sul Mare, Salerno, Italy",27-29 May 2024,28 January 2024,,31 March 2024,
-"CPAIORIntegration of Constraint Programming, Artificial Intelligence, and Operations Research","Uppsala, Sweden",28-31 May 2024,1 February 2024,,15 April 2024,
-ICAPSInternational Conference on Automated Planning and Scheduling,"Banf, Alberta, Canada",1-5 June 2024,12 February 2024,,31 March 2024,
-HALGHighlights of Algorithms,"Warsaw, Poland",3-5 June 2024,,25 May 2024,1 May 2024,
-NFMNASA Formal Methods,"Moffett Field, California, USA",4-6 June 2024,16 February 2024,15 March 2024,,
-FUNFun With Algorithms,"La Maddalena Island, Sardinia, Italy",4-8 June 2024,2 April 2024,15 April 2024,3 May 2024,
-SANDAlgorithmic Foundations of Dynamic Networks,"Patras, Greece",5-7 June 2024,20 March 2024,2 April 2024,3 May 2024,
-SoCSSymposium on Combinatorial Search,"Kananaskis, Alberta, Canada",6-8 June 2024,26 March 2024,10 April 2024,5 April 2024,
-PODSPrinciples of Database Systems,"Santiago, Chile",9-15 June 2024,4 March 2024,,30 April 2024,co-located withSIGMOD
-SIGMODInternational Conference on Management of Data,"Santiago, Chile",9-15 June 2024,23 February 2024,,30 April 2024,co-located withPODS
-SCAIScandinavian Conference on AI,"Jönköping, Sweden",10-11 June 2024,28 April 2024,12 May 2024,,
-"WoLLICWorkshop on Logic, Language, Information and Computation","Bern, Switzerland",10-13 June 2024,15 April 2024,29 April 2024,10 May 2024,
-SoCGSymposium on Computational Geometry,"Athens, Greece",11-14 June 2024,5 February 2024,20 March 2024,8 May 2024,
-SWATScandinavian Symposium and Workshops on Algorithm Theory,"Helsinki, Finland",12-14 June 2024,2 April 2024,,18 May 2024,
-SLSSScandinavian Logic Symposium,"Reykjavík, Iceland",14-16 June 2024,30 April 2024,,,
-SPAASymposium on Parallelism in Algorithms and Architectures,"Nantes, France",17-21 June 2024,7 April 2024,28 April 2024,,
-PODCPrinciples of Distributed Computing,"Nantes, France",17-21 June 2024,22 April 2024,,26 May 2024,
+FLOPSFunctional and Logic Programming,"Kumamoto, Japan",15-17 May 2024,26 January 2024,21 February 2024,30 April 2024,,https://conf.researchr.org/home/flops-2024
+ISCOInternational Symposium on Combinatorial Optimization,"Tenerife, Canary Islands, Spain",22-24 May 2024,15 March 2024,15 April 2024,31 March 2024,school 20-21 May 2024,https://eventos.ull.es/isco-2024
+EUROCRYPTTheory and Applications of Cryptographic Techniques,"Zurich, Switzerland",26-30 May 2024,8 December 202331 January 2024,,26 April 2024,,https://eurocrypt.iacr.org/2024/
+"LPARLogic for Programming, Artificial Intelligence and Reasoning",Mauritius,26-31 May 2024,1 April 2024,5 April 2024,16 May 2024,,https://easychair.org/smart-program/LPAR2024/
+SIROCCOStructural Information and Communication Complexity,"Vietri sul Mare, Salerno, Italy",27-29 May 2024,28 January 2024,,31 March 2024,,http://sirocco2024.di.unisa.it/
+"CPAIORIntegration of Constraint Programming, Artificial Intelligence, and Operations Research","Uppsala, Sweden",28-31 May 2024,1 February 2024,,15 April 2024,,https://sites.google.com/view/cpaior2024
+ICAPSInternational Conference on Automated Planning and Scheduling,"Banf, Alberta, Canada",1-5 June 2024,12 February 2024,,31 March 2024,,https://icaps24.icaps-conference.org/
+HALGHighlights of Algorithms,"Warsaw, Poland",3-5 June 2024,,25 May 2024,1 May 2024,,https://halg2024.ideas-ncbr.pl/
+NFMNASA Formal Methods,"Moffett Field, California, USA",4-6 June 2024,16 February 2024,15 March 2024,,,https://conf.researchr.org/home/nfm-2024
+FUNFun With Algorithms,"La Maddalena Island, Sardinia, Italy",4-8 June 2024,2 April 2024,15 April 2024,3 May 2024,,https://sites.google.com/unipi.it/fun2024/
+SANDAlgorithmic Foundations of Dynamic Networks,"Patras, Greece",5-7 June 2024,20 March 2024,2 April 2024,3 May 2024,,https://www.ceid.upatras.gr/webpages/sand2024/
+SoCSSymposium on Combinatorial Search,"Kananaskis, Alberta, Canada",6-8 June 2024,26 March 2024,10 April 2024,5 April 2024,,https://socs24.search-conference.org/
+PODSPrinciples of Database Systems,"Santiago, Chile",9-15 June 2024,4 March 2024,,30 April 2024,co-located withSIGMOD,https://2024.sigmod.org/
+SIGMODInternational Conference on Management of Data,"Santiago, Chile",9-15 June 2024,23 February 2024,,30 April 2024,co-located withPODS,https://2024.sigmod.org/
+SCAIScandinavian Conference on AI,"Jönköping, Sweden",10-11 June 2024,28 April 2024,12 May 2024,,,https://ju.se/samarbeta/event-och-konferenser/konferens/scai-symposium-2024/
+"WoLLICWorkshop on Logic, Language, Information and Computation","Bern, Switzerland",10-13 June 2024,15 April 2024,29 April 2024,10 May 2024,,https://wollic2024.inf.unibe.ch/
+SoCGSymposium on Computational Geometry,"Athens, Greece",11-14 June 2024,5 February 2024,20 March 2024,8 May 2024,,http://socg24.athenarc.gr/
+SWATScandinavian Symposium and Workshops on Algorithm Theory,"Helsinki, Finland",12-14 June 2024,2 April 2024,,18 May 2024,,https://swat2024.github.io/website/
+SLSSScandinavian Logic Symposium,"Reykjavík, Iceland",14-16 June 2024,30 April 2024,,,,https://scool24.github.io/SLSS/
+SPAASymposium on Parallelism in Algorithms and Architectures,"Nantes, France",17-21 June 2024,7 April 2024,28 April 2024,,,https://spaa.acm.org/
+PODCPrinciples of Distributed Computing,"Nantes, France",17-21 June 2024,22 April 2024,,26 May 2024,,https://www.podc.org
 DisCoTecDistributed Computing Techniques,"Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,22 May 2024,"federated conference includingCOORDINATION,DAIS,
-	      andFORTE"
-COORDINATIONCoordination Models and Languages,"Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,22 May 2024,part ofDisCoTec
-DAISDistributed Applications and Interoperable Systems,"Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,22 May 2024,part ofDisCoTec
-"FORTEFormal Techniques for Distributed Objects, Components, and Systems","Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,22 May 2024,part ofDisCoTec
-"AofAProbabilistic, Combinatorial, and Asymptotic Methods in theAnalysisofAlgorithms","Bath, United Kingdom",17-21 June 2024,28 April 2024,19 May 2024,3 May 2024,
-DLDescription Logics,"Bergen, Norway",18-21 June 2024,8 May 2024,3 June 2024,21 May 2024,
-"GandALFGames, Automata, Logics, and Formal Verification","Reykjavik, Iceland",10-21 June 2024,,,,
-WGGraph-Theoretic Concepts in Computer Science,"Gozd Martuljek, Slovenia",19-21 June 2024,19 April 2024,12 July 2024,30 April 2024,
-STOCSymposium on Theory of Computing,"Vancouver, Canada",24-28 June 2024,11 February 2024,31 March 2024,6 May 2024,
-CPMCombinatorial Pattern Matching,"Fukuoka, Japan",25-27 June 2024,10 April 2024,,20 May 2024,
-DEBSDistributed and Event-Based Systems,"Lyon, France",25-28 June 2024,12 April 202413 May 2024,24 May 2024,13 June 2024,
-LOFTLogic and the Foundations of Game and Decision Theory,"Bayreuth, Germany",26-28 June 2024,beginning April,,,
-CILCItalian Conference on Computational Logic,"Rome, Italy",26-28 June 2024,22 May 2024,15 June 2024,,
-COLTConference on Learning Theory,"Edmonton, Canada",30 June – 3 July 2024,10 May 2024,,,
-IWOCAInternational Workshop on Combinatorial Algorithms,"Ischia, Italy",1-4 July 2024,15 April 2024,26 April 2024,3 May 2024,
-"TACLTopology, Algebra, and Categories in Logic","Barcelona, Spain",1-5 July 2024,20 April 2024,,8 June 2024,preceding summer school 25-28 June 2024
-IJCARInternational Joint Conference on Automated Reasoning,"Nancy, France",1-6 July 2024,28 March 2024,28 April 2024,4 June 2024,
-ThEduTheorem proving components for Educational software,"Nancy, France",2 July 2024,8 May 2024,,4 June 2024,co-located withIJCAR
-SC2Satisfiability Checking and Symbolic Computation,"Nancy, France",2 July 2024,17 May 2024,31 May 2024,4 June 2024,co-located withIJCAR
-UNIFWorkshop on Unification,"Nancy, France",2 July 2024,23 May 2024,7 June 2024,4 June 2024,co-located withIJCAR
-PAARPractical Aspects of Automated Reasoning,"Nancy, France",2 July 2024,1 June 2024,14 June 2024,4 June 2024,co-located withIJCAR
-ARQNLAutomated Reasoning in Quantified Non-Classical Logics,"Nancy, France",2 July 2024,3 June 2024,17 June 2024,4 June 2024,co-located withIJCAR
-IPCOInteger Programming and Combinatorial Optimization,"Wrocław, Poland",3-5 July 2024,26 January 2024,15 March 2024,31 March 2024,
-ECEconomics and Computation,"New Haven, Connecticut, USA",8-11 July 2024,18 May 2024,,,
-LICSLogic in Computer Science,"Tallinn, Estonia",8-12 July 2024,15 April 2024,,17 May 2024,co-located withICALPandFSCD
-"ICALPInternational Colloquium on Automata, Languages and Programming","Tallinn, Estonia",8-12 July 2024,14 April 2024,28 April 2024,17 May 2024,co-located withLICSandFSCD
-CiEComputability in Europe,"Amsterdam, The Netherlands",8-12 July 2024,20 April 2024,1 May 2024,20 May 2024,
-CSFComputer Security Foundations,"Enschede, The Netherlands",8-12 July 2024,7 April 2024,,14 June 2024,
-WADTWorkshop on Algebraic Development Techniques,"Enschede, The Netherlands",8-12 July 2024,17 May 2024,,,part ofSTAF
-ECMFAEuropean Conference on Modelling Foundations and Applications,"Enschede, The Netherlands",8-12 July 2024,10 April 20245 June 2024,,,part ofSTAF
-ICGTInternational Conference on Graph Transformation,"Enschede, The Netherlands",8-12 July 2024,23 April 2024,14 May 2024,,
-IWCInternational Workshop on Confluence,"Tallinn, Estonia",9 July 2024,17/31 May 2024,,17 May 2024,co-located withFSCD
-FSCDFormal Structures for Computation and Deduction,"Tallinn, Estonia",10-13 July 2024,22 April 2024,6 May 2024,17 May 2024,co-located withICALPandLICS
-GECCOGenetic and Evolutionary Computation Conference,"Melbourne, Australia",14-18 July 2024,21 March 2024,11 April 2024,10 May 2024,
-ANTSAlgorithmic Number Theory Symposium,"Cambridge, Massachusetts, USA",15-19 July 2024,April 2024,,,
-FOISFormal Ontology in Information Systems,"Enschede, The Netherlands",8-9 July 2024 (online)15-19 July 2024 (on site),10 May 2024,,3 June 2024,
-ISSACInternational Symposium on Symbolic and Algebraic Computation,"Raleigh, North Carolina, USA",16-19 July 2024,16/30 April 2024,21 May 2024,,
-ICDCSInternational Conference on Distributed Computing Systems,"Jersey City, New Jersey, USA",16-19 July 2024,12 April 2024,10 May 2024,24 May 2024 (author)22 June 2024 (early),
-CCCGCanadian Conference on Computational Geometry,"St. Catharines, Ontario, Canada",17-19 July 2024,17 May 2024,31 May 2024,,
-ICMLInternational Conference on Machine Learning,"Vienna, Austria",21-27 July 2024,1 May 2024,29 May 2024,15 June 2024,
-AUTOMATACellular Automata and Discrete Complex Systems,"Durham, United Kingdom",22-24 July 2024,3 May 2024,17 May 2024,21 June 2024,
-CCCComputational Complexity Conference,"Ann Arbor, Michigan, USA",22-25 July 2024,5 May 2024,,,
-CAVComputer-Aided Verification,"Montreal, Canada",22-27 July 2024,26 March 202410 May 2024,19 May 2024,,submissions updated until 26 January 2024artifact submission: 8 April 2024 (mandatory for tool papers)
-SEASymposium on Experimental Algorithms,"Vienna, Austria",23-26 July 2024,27 March 2024,28 April 2024,31 May 2024,
-TASETheoretical Aspects of Software Engineering,"Guiyang, China",29 July - 1 August 2024,10 April 2024,10 May 2024,,
-IJCAIInternational Joint Conference on Artificial Intelligence,"Jeju Island, South Korea",3-9 August 2024,22 February 202416 April 2024,,4 June 2024,appendix and resubmission until 24 January 2024
-CICMConference on Intelligent Computer Mathematics,"Montréal, Québec, Canada",5-9 August 2024,28 May 2024,11 June 2024,,
-DLTDevelopments in Language Theory,"Göttingen, Germany",12-16 August 2024,3 May 2024,17 May 2024,,
-CRYPTOCRYPTO,"Santa Barbara, California, USA",18-22 August 2024,7 April 20243 May 2024,,,
-SmartDataSmart Data,"Copenhagen, Denmark",19-22 August 2024,1 June 2024,20 June 2024,,
-RAMiCSRelational and Algebraic Methods in Computer Science,"Prague, Czech Republic",19-23 August 2024,21 May 2024,22 June 2024,,co-located withAiML
-AiMLAdvances in Modal Logic,"Prague, Czech Republic",19-23 August 2024,20 May 2024,21 June 2024,,co-located withRAMiCS
-SATTheory and Applications of Satisfiability Testing,"Pune, India",21-24 August 2024,22 May 2024,22 June 2024,,preceded 18-20 August 2024 by Indian SAT+SMT School
-COCOONComputing and Combinatorics Conference,"Shanghai, China",23-25 August 2024,25 May 2024,10 June 2024,,
-KDDKnowledge Discovery and Data Mining,"Barcelona, Spain",25-29 August 2024,16 May 2024,4 June 2024,10 July 2024,
-ICICSInternational Conference on Information and Communications Security,"Mytilene, Lesvos, Greece",26-28 August 2024,24 June 2024,9 August 2024,30 June 202431 July 2024,"first registration date for authors, second for attendees"
-Euro-ParEuropean Conference on Parallel and Distributed Computing,"Madrid, Spain",26-30 August 2024,29 April 2024,2 June 2024,30 June 2024,
-MFCSMathematical Foundations of Computer Science,"Bratislava, Slovakia",26-30 August 2024,24 June 2024,,,
-PATATPractice and Theory of Automated Timetabling,"Lyngby, Denmark",27-30 August 2024,3 May 2024,24 June 2024,24 June 2024,
-APPROXApproximation Algorithms for Combinatorial Optimization Problems,"London, United Kingdom",28-30 August 2024,1 July 2024,15 July 2024,,co-located withRANDOM
-RANDOMRandomization and Computation,"London, United Kingdom",28-30 August 2024,1 July 2024,15 July 2024,,co-located withAPPROX
-SCSSSymbolic Computation in Software Science,"Tokyo, Japan",28-30 August 2024,1 May 2024,15 June 2024,,
-ESAEuropean Symposium on Algorithms,"Egham, United Kingdom",2-4 September 2024,23 June 2024,30 June 2024,,part ofALGO
-ALGOFederated Conference on Algorithms,"Egham, United Kingdom",2-6 September 2024,,,,"federated conference includingALGOCLOUD,ALGOWIN,ATMOS,ESA,IPEC,WABI,WAOA"
-CPPrinciples and Practice of Constraint Programming,"Girona, Catalonia, Spain",2-6 September 2024,20 June 2024,1 July 2024,,
-ICFPInternational Conference on Functional Programming,"Milan, Italy",2-7 September 2024,20 May 2024,,,
-CIAAConference on Implementation and Application of Automata,"Akita, Japan",3-6 September 2024,7 June 2023,21 June 2024,,
-NCLNon-Classical Logics,"Łódż, Poland",5-8 September 2024,15 June 2024,10 July 2024,,
-MATCH-UPMatching Under Preferences,"Oxford, United Kingdom",9-11 September 2024,1 July 2024,,15 July 2024,
-FMICSFormal Methods for Industrial Critical Systems,"Milan, Italy",9-11 September 2024,10 June 2024,23 June 2024,,co-located withFM
-FMFormal Methods,"Milan, Italy",9-13 September 2024,10 June 2024,1 July 2024,,
+	      andFORTE",https://www.discotec.org/2024/
+COORDINATIONCoordination Models and Languages,"Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,22 May 2024,part ofDisCoTec,https://www.discotec.org/2024/coordination
+DAISDistributed Applications and Interoperable Systems,"Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,22 May 2024,part ofDisCoTec,https://www.discotec.org/2024/dais
+"FORTEFormal Techniques for Distributed Objects, Components, and Systems","Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,22 May 2024,part ofDisCoTec,https://www.discotec.org/2024/forte
+"AofAProbabilistic, Combinatorial, and Asymptotic Methods in theAnalysisofAlgorithms","Bath, United Kingdom",17-21 June 2024,28 April 2024,19 May 2024,3 May 2024,,https://www.math.aau.at/AofA2024/
+DLDescription Logics,"Bergen, Norway",18-21 June 2024,8 May 2024,3 June 2024,21 May 2024,,https://dl2024.w.uib.no/
+"GandALFGames, Automata, Logics, and Formal Verification","Reykjavik, Iceland",10-21 June 2024,,,,,https://scool24.github.io/GandALF/
+WGGraph-Theoretic Concepts in Computer Science,"Gozd Martuljek, Slovenia",19-21 June 2024,19 April 2024,12 July 2024,30 April 2024,,https://conferences.famnit.upr.si/event/31/
+STOCSymposium on Theory of Computing,"Vancouver, Canada",24-28 June 2024,11 February 2024,31 March 2024,6 May 2024,,http://acm-stoc.org/stoc2024/
+CPMCombinatorial Pattern Matching,"Fukuoka, Japan",25-27 June 2024,10 April 2024,,20 May 2024,,https://cpm2024.github.io/
+DEBSDistributed and Event-Based Systems,"Lyon, France",25-28 June 2024,12 April 202413 May 2024,24 May 2024,13 June 2024,,https://2024.debs.org/
+LOFTLogic and the Foundations of Game and Decision Theory,"Bayreuth, Germany",26-28 June 2024,beginning April,,,,https://loftconference15.wordpress.com/
+CILCItalian Conference on Computational Logic,"Rome, Italy",26-28 June 2024,22 May 2024,15 June 2024,,,https://cilc2024.github.io/
+COLTConference on Learning Theory,"Edmonton, Canada",30 June – 3 July 2024,10 May 2024,,,,https://learningtheory.org/colt2024/
+IWOCAInternational Workshop on Combinatorial Algorithms,"Ischia, Italy",1-4 July 2024,15 April 2024,26 April 2024,3 May 2024,,http://iwoca2024.di.unisa.it/
+"TACLTopology, Algebra, and Categories in Logic","Barcelona, Spain",1-5 July 2024,20 April 2024,,8 June 2024,preceding summer school 25-28 June 2024,https://iiia.csic.es/tacl2024/
+IJCARInternational Joint Conference on Automated Reasoning,"Nancy, France",1-6 July 2024,28 March 2024,28 April 2024,4 June 2024,,https://ijcar2024.loria.fr/
+ThEduTheorem proving components for Educational software,"Nancy, France",2 July 2024,8 May 2024,,4 June 2024,co-located withIJCAR,https://www.uc.pt/en/congressos/thedu/ThEdu24/
+SC2Satisfiability Checking and Symbolic Computation,"Nancy, France",2 July 2024,17 May 2024,31 May 2024,4 June 2024,co-located withIJCAR,http://www.sc-square.org/CSA/workshop9.html
+UNIFWorkshop on Unification,"Nancy, France",2 July 2024,23 May 2024,7 June 2024,4 June 2024,co-located withIJCAR,https://lat.inf.tu-dresden.de/unif2024/
+PAARPractical Aspects of Automated Reasoning,"Nancy, France",2 July 2024,1 June 2024,14 June 2024,4 June 2024,co-located withIJCAR,https://paar2024.github.io/
+ARQNLAutomated Reasoning in Quantified Non-Classical Logics,"Nancy, France",2 July 2024,3 June 2024,17 June 2024,4 June 2024,co-located withIJCAR,http://iltp.de/ARQNL-2024/
+IPCOInteger Programming and Combinatorial Optimization,"Wrocław, Poland",3-5 July 2024,26 January 2024,15 March 2024,31 March 2024,,https://ipco2024.ii.uni.wroc.pl/
+ECEconomics and Computation,"New Haven, Connecticut, USA",8-11 July 2024,18 May 2024,,,,https://ec24.sigecom.org/
+LICSLogic in Computer Science,"Tallinn, Estonia",8-12 July 2024,15 April 2024,,17 May 2024,co-located withICALPandFSCD,https://lics.siglog.org/lics24/
+"ICALPInternational Colloquium on Automata, Languages and Programming","Tallinn, Estonia",8-12 July 2024,14 April 2024,28 April 2024,17 May 2024,co-located withLICSandFSCD,https://compose.ioc.ee/icalp2024/#icalp
+CiEComputability in Europe,"Amsterdam, The Netherlands",8-12 July 2024,20 April 2024,1 May 2024,20 May 2024,,https://events.illc.uva.nl/CiE/CiE2024/
+CSFComputer Security Foundations,"Enschede, The Netherlands",8-12 July 2024,7 April 2024,,14 June 2024,,https://csf2024.ieee-security.org/
+WADTWorkshop on Algebraic Development Techniques,"Enschede, The Netherlands",8-12 July 2024,17 May 2024,,,part ofSTAF,https://conf.researchr.org/home/wadt-2024
+ECMFAEuropean Conference on Modelling Foundations and Applications,"Enschede, The Netherlands",8-12 July 2024,10 April 20245 June 2024,,,part ofSTAF,https://conf.researchr.org/home/staf-2024/ecmfa-2024
+ICGTInternational Conference on Graph Transformation,"Enschede, The Netherlands",8-12 July 2024,23 April 2024,14 May 2024,,,https://conf.researchr.org/home/icgt-2024
+IWCInternational Workshop on Confluence,"Tallinn, Estonia",9 July 2024,17/31 May 2024,,17 May 2024,co-located withFSCD,https://www.trs.css.i.nagoya-u.ac.jp/event/iwc2024/
+FSCDFormal Structures for Computation and Deduction,"Tallinn, Estonia",10-13 July 2024,22 April 2024,6 May 2024,17 May 2024,co-located withICALPandLICS,https://cs.ioc.ee/fscd24/
+GECCOGenetic and Evolutionary Computation Conference,"Melbourne, Australia",14-18 July 2024,21 March 2024,11 April 2024,10 May 2024,,https://gecco-2024.sigevo.org/
+ANTSAlgorithmic Number Theory Symposium,"Cambridge, Massachusetts, USA",15-19 July 2024,April 2024,,,,https://antsmath.org/ANTSXVI/
+FOISFormal Ontology in Information Systems,"Enschede, The Netherlands",8-9 July 2024 (online)15-19 July 2024 (on site),10 May 2024,,3 June 2024,,https://www.utwente.nl/en/eemcs/fois2024/
+ISSACInternational Symposium on Symbolic and Algebraic Computation,"Raleigh, North Carolina, USA",16-19 July 2024,16/30 April 2024,21 May 2024,,,https://www.issac-conference.org/2024/
+ICDCSInternational Conference on Distributed Computing Systems,"Jersey City, New Jersey, USA",16-19 July 2024,12 April 2024,10 May 2024,24 May 2024 (author)22 June 2024 (early),,https://icdcs2024.icdcs.org/
+CCCGCanadian Conference on Computational Geometry,"St. Catharines, Ontario, Canada",17-19 July 2024,17 May 2024,31 May 2024,,,https://brocku.ca/mathematics-science/canadian-conference-on-computational-geometry-2024/
+ICMLInternational Conference on Machine Learning,"Vienna, Austria",21-27 July 2024,1 May 2024,29 May 2024,15 June 2024,,https://icml.cc/
+AUTOMATACellular Automata and Discrete Complex Systems,"Durham, United Kingdom",22-24 July 2024,3 May 2024,17 May 2024,21 June 2024,,https://automata2024.webspace.durham.ac.uk/
+CCCComputational Complexity Conference,"Ann Arbor, Michigan, USA",22-25 July 2024,5 May 2024,,,,https://computationalcomplexity.org/
+CAVComputer-Aided Verification,"Montreal, Canada",22-27 July 2024,26 March 202410 May 2024,19 May 2024,,submissions updated until 26 January 2024artifact submission: 8 April 2024 (mandatory for tool papers),http://i-cav.org/2024/
+SEASymposium on Experimental Algorithms,"Vienna, Austria",23-26 July 2024,27 March 2024,28 April 2024,31 May 2024,,https://sea2024.univie.ac.at/
+TASETheoretical Aspects of Software Engineering,"Guiyang, China",29 July - 1 August 2024,10 April 2024,10 May 2024,,,https://tase2024.github.io/
+IJCAIInternational Joint Conference on Artificial Intelligence,"Jeju Island, South Korea",3-9 August 2024,22 February 202416 April 2024,,4 June 2024,appendix and resubmission until 24 January 2024,https://ijcai24.org/
+CICMConference on Intelligent Computer Mathematics,"Montréal, Québec, Canada",5-9 August 2024,28 May 2024,11 June 2024,,,https://cicm-conference.org/2024/
+DLTDevelopments in Language Theory,"Göttingen, Germany",12-16 August 2024,3 May 2024,17 May 2024,,,https://events.gwdg.de/event/576/
+CRYPTOCRYPTO,"Santa Barbara, California, USA",18-22 August 2024,7 April 20243 May 2024,,,,https://crypto.iacr.org/2024/
+SmartDataSmart Data,"Copenhagen, Denmark",19-22 August 2024,1 June 2024,20 June 2024,,,https://ieee-cybermatics.org/2024/smartdata/
+RAMiCSRelational and Algebraic Methods in Computer Science,"Prague, Czech Republic",19-23 August 2024,21 May 2024,22 June 2024,,co-located withAiML,https://ramics-conf.github.io/2024/
+AiMLAdvances in Modal Logic,"Prague, Czech Republic",19-23 August 2024,20 May 2024,21 June 2024,,co-located withRAMiCS,https://www.cs.cas.cz/aiml2024/
+SATTheory and Applications of Satisfiability Testing,"Pune, India",21-24 August 2024,22 May 2024,22 June 2024,,preceded 18-20 August 2024 by Indian SAT+SMT School,http://satisfiability.org/SAT24/
+COCOONComputing and Combinatorics Conference,"Shanghai, China",23-25 August 2024,25 May 2024,10 June 2024,,,https://anl.sjtu.edu.cn/cocoon2024/
+KDDKnowledge Discovery and Data Mining,"Barcelona, Spain",25-29 August 2024,16 May 2024,4 June 2024,10 July 2024,,https://kdd2024.kdd.org/
+ICICSInternational Conference on Information and Communications Security,"Mytilene, Lesvos, Greece",26-28 August 2024,24 June 2024,9 August 2024,30 June 202431 July 2024,"first registration date for authors, second for attendees",https://icics2024.aegean.gr/
+Euro-ParEuropean Conference on Parallel and Distributed Computing,"Madrid, Spain",26-30 August 2024,29 April 2024,2 June 2024,30 June 2024,,https://2024.euro-par.org/
+MFCSMathematical Foundations of Computer Science,"Bratislava, Slovakia",26-30 August 2024,24 June 2024,,,,http://www.mfcs.sk/
+PATATPractice and Theory of Automated Timetabling,"Lyngby, Denmark",27-30 August 2024,3 May 2024,24 June 2024,24 June 2024,,https://patatconference2024.dtu.dk/
+APPROXApproximation Algorithms for Combinatorial Optimization Problems,"London, United Kingdom",28-30 August 2024,1 July 2024,15 July 2024,,co-located withRANDOM,https://approxconference.com/
+RANDOMRandomization and Computation,"London, United Kingdom",28-30 August 2024,1 July 2024,15 July 2024,,co-located withAPPROX,https://randomconference.com/
+SCSSSymbolic Computation in Software Science,"Tokyo, Japan",28-30 August 2024,1 May 2024,15 June 2024,,,https://www.scss-conference.org/
+ESAEuropean Symposium on Algorithms,"Egham, United Kingdom",2-4 September 2024,23 June 2024,30 June 2024,,part ofALGO,https://algo-conference.org/2024/esa/
+ALGOFederated Conference on Algorithms,"Egham, United Kingdom",2-6 September 2024,,,,"federated conference includingALGOCLOUD,ALGOWIN,ATMOS,ESA,IPEC,WABI,WAOA",https://algo-conference.org/2024/
+CPPrinciples and Practice of Constraint Programming,"Girona, Catalonia, Spain",2-6 September 2024,20 June 2024,1 July 2024,,,https://cp2024.a4cp.org/
+ICFPInternational Conference on Functional Programming,"Milan, Italy",2-7 September 2024,20 May 2024,,,,https://icfp24.sigplan.org/
+CIAAConference on Implementation and Application of Automata,"Akita, Japan",3-6 September 2024,7 June 2023,21 June 2024,,,http://www.math.akita-u.ac.jp/ciaa2024/
+NCLNon-Classical Logics,"Łódż, Poland",5-8 September 2024,15 June 2024,10 July 2024,,,https://easychair.org/smart-program/NCL'24/
+MATCH-UPMatching Under Preferences,"Oxford, United Kingdom",9-11 September 2024,1 July 2024,,15 July 2024,,https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/
+FMICSFormal Methods for Industrial Critical Systems,"Milan, Italy",9-11 September 2024,10 June 2024,23 June 2024,,co-located withFM,https://fmics.inria.fr/2024/
+FMFormal Methods,"Milan, Italy",9-13 September 2024,10 June 2024,1 July 2024,,,https://www.fm24.polimi.it/
 CONFESTCONCUR & QEST & FORMATS,"Calgary, Canada",9-13 September 2024,,,,"federated conference includingCONCUR,QEST,
-	      andFORMATS"
-CONCURConcurrency Theory,"Calgary, Canada",9-13 September 2024,21 June 2024,12 July 2024,,updates possible until 29 April 2024; part ofCONFEST
-QESTQuantitative Evaluation of SysTems,"Calgary, Canada",9-13 September 2024,31 May 2024,17 June 2024,,22 April artifact submission; part ofCONFEST
-FORMATSFormal Modeling and Analysis of Timed Systems,"Calgary, Canada",9-13 September 2024,31 May 2024,17 June 2024,,22 April artifact submission; part ofCONFEST
-ITPInteractive Theorem Proving,"Tbilisi, Georgia",9-14 September 2024,20 May 2024,10 June 2024,,
-SCNSecurity and Cryptography for Networks,"Amalfi (SA), Italy",11-13 September 2024,2 July 2024,17 July 2024,31 July 2024,revisions possible until 9 May 2024
-"SAFECOMPComputer Safety, Reliability and Security","Florence, Italy",17-20 September 2024,21 April 2024,1 June 2024,,
-KIGerman Conference on Artificial Intelligence,"Würzburg, Germany",25-27 September 2024,15 June 2024,10 July 2024,,
-FMCADFormal Methods in Computer-Aided Design,"Prague, Czech Republic",14-18 October 2024,8 July 2024,August 2024,20 August 2024,
-PACTParallel Architectures and Compilation Techniques,"Long Beach, California, USA",13-16 October 2024,1 July 2024,10 August 2024,,
-CCSComputer and Communication Security,"Salt Lake City, Utah, USA",14-18 October 2024,29 May 20244 July 2024,,12 September 2024,
-ECAIEuropean Conference on Artificial Intelligence,"Santiago de Compostela, Spain",19-24 October 2024,4 July 2024,,,
-ATVAAutomated Technology for Verification and Analysis,"Kyoto, Japan",21-24 October 2024,26 June 2024,22 August 2024,,
-FOCSFoundations of Computer Science,"Chicago, Illinois, USA",27-30 October 2024,4 July 2024,26 August 2024,15 August 2024,
-KRPrinciples of Knowledge Representation and Reasoning,"Hanoi, Vietnam",2-8 November 2024,10 July 2024,31 July 2024,,co-located withNMR
+	      andFORMATS",https://confest2024.github.io/
+CONCURConcurrency Theory,"Calgary, Canada",9-13 September 2024,21 June 2024,12 July 2024,,updates possible until 29 April 2024; part ofCONFEST,https://confest2024.github.io/
+QESTQuantitative Evaluation of SysTems,"Calgary, Canada",9-13 September 2024,31 May 2024,17 June 2024,,22 April artifact submission; part ofCONFEST,https://www.qest-formats.org/
+FORMATSFormal Modeling and Analysis of Timed Systems,"Calgary, Canada",9-13 September 2024,31 May 2024,17 June 2024,,22 April artifact submission; part ofCONFEST,https://www.qest-formats.org/
+ITPInteractive Theorem Proving,"Tbilisi, Georgia",9-14 September 2024,20 May 2024,10 June 2024,,,https://www.viam.science.tsu.ge/itp2024/
+SCNSecurity and Cryptography for Networks,"Amalfi (SA), Italy",11-13 September 2024,2 July 2024,17 July 2024,31 July 2024,revisions possible until 9 May 2024,http://scn.unisa.it
+"SAFECOMPComputer Safety, Reliability and Security","Florence, Italy",17-20 September 2024,21 April 2024,1 June 2024,,,https://www.safecomp2024.unifi.it/
+KIGerman Conference on Artificial Intelligence,"Würzburg, Germany",25-27 September 2024,15 June 2024,10 July 2024,,,https://www.informatik.uni-wuerzburg.de/ki24/
+FMCADFormal Methods in Computer-Aided Design,"Prague, Czech Republic",14-18 October 2024,8 July 2024,August 2024,20 August 2024,,https://fmcad.org/FMCAD24/
+PACTParallel Architectures and Compilation Techniques,"Long Beach, California, USA",13-16 October 2024,1 July 2024,10 August 2024,,,https://pact2024.github.io/
+CCSComputer and Communication Security,"Salt Lake City, Utah, USA",14-18 October 2024,29 May 20244 July 2024,,12 September 2024,,https://www.sigsac.org/ccs/CCS2024/
+ECAIEuropean Conference on Artificial Intelligence,"Santiago de Compostela, Spain",19-24 October 2024,4 July 2024,,,,https://www.ecai2024.eu/
+ATVAAutomated Technology for Verification and Analysis,"Kyoto, Japan",21-24 October 2024,26 June 2024,22 August 2024,,,https://atva-conference.org/2024/
+FOCSFoundations of Computer Science,"Chicago, Illinois, USA",27-30 October 2024,4 July 2024,26 August 2024,15 August 2024,,https://focs.computer.org/2024/
+KRPrinciples of Knowledge Representation and Reasoning,"Hanoi, Vietnam",2-8 November 2024,10 July 2024,31 July 2024,,co-located withNMR,https://kr.org/KR2024/
 Conference,"City, Country",Date,Notification,Final version,Early registration,Remarks and other indications
