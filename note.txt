@@ -1,7 +1,8 @@
 Câu hỏi:
-- Cài đặt thư viện. <- đã cài
+- Cài đặt thư viện beautifulsoup, pandas. <- đã cài
 - Cách lấy dữ liệu từ table <- solved, bằng beautifulsoup
 - Chạy code stack này như thế nào? Ví dụ như muốn chạy server web và trong lúc chạy web thì chạy cả python, thì mình cần wrapper chăng?
+
 
 
 
@@ -10,3 +11,11 @@ Câu hỏi:
 
 Dataflow: 
 App Python lấy HTML và lọc thông tin trong HTML đó. Cho hết vào một file csv theo format của nhóm sau khi lọc xong.
+
+
+Đổi branch:
+git checkout <tên branch>
+
+Thư viện phải cài:
+    - BeautifulSoup - Trích dữ liệu HTML
+    - Pandas - Xử lý CSV 
