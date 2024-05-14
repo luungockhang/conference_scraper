@@ -19,3 +19,6 @@ git checkout <tên branch>
 Thư viện phải cài:
     - BeautifulSoup - Trích dữ liệu HTML
     - Pandas - Xử lý CSV 
+
+Vấn đề:
+    - Mở file output.csv thì không thể chạy code (permission denied - không ghi đè file đang mở)
