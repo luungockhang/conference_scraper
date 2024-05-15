@@ -5,8 +5,6 @@ Câu hỏi:
 
 
 
-
-
 - Cách vào trong link của table để lấy dữ liệu phụ. (optional)
 
 Dataflow: 
@@ -19,6 +17,8 @@ git checkout <tên branch>
 Thư viện phải cài:
     - BeautifulSoup - Trích dữ liệu HTML
     - Pandas - Xử lý CSV 
+    - pyyaml - Đọc API file YAML 
+    - requests - Để lấy data trên mạng về
 
 Tổ chức CSDL (dự kiến):
     - Tên hội nghị, nơi tổ chức (thành phố), deadline, conf date
