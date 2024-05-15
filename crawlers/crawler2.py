@@ -20,7 +20,7 @@ def crawl_api():
     content = yaml.safe_load(content)
     
     # data goes to this folder
-    folder = 'conference_list_site\\ccfddl.github.io'
+    folder = '../conference_list_site/ccfddl.github.io'
     if not os.path.exists(folder):
         os.makedirs(folder)
     file_name = 'output.csv'

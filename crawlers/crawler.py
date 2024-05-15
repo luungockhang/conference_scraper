@@ -19,7 +19,7 @@ def crawler():
     
     # data goes to this folder
     file_number = 1
-    folder = 'conference_list_site\\lix.polytechnique.fr'
+    folder = '../conference_list_site/lix.polytechnique.fr'
     if not os.path.exists(folder):
         os.makedirs(folder)
     file_name = 'output' + str(file_number) + '.csv'
