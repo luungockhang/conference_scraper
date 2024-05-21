@@ -1,4 +1,4 @@
-Conference,"City, Country",Date,Notification,Final version,Early registration,Remarks and other indications
+Conference,"City, Country",Date,Notification,Final version,Early registration,Remarks and other indications,Website,Description
 ISCO 2024,"Tenerife, Canary Islands, Spain",22-24 May 2024,15 March 2024,15 April 2024,31 March 2024,school 20-21 May 2024,https://eventos.ull.es/isco-2024,International Symposium on Combinatorial Optimization
 EUROCRYPT  2024,"Zurich, Switzerland",26-30 May 2024,8 December 202331 January 2024,,26 April 2024,,https://eurocrypt.iacr.org/2024/,Theory and Applications of Cryptographic Techniques
 LPAR 2024,Mauritius,26-31 May 2024,1 April 2024,5 April 2024,16 May 2024,,https://easychair.org/smart-program/LPAR2024/,"Logic for Programming, Artificial Intelligence and Reasoning"
@@ -113,4 +113,3 @@ ATVA 2024,"Kyoto, Japan",21-24 October 2024,26 June 2024,22 August 2024,,,https:
 FOCS 2024,"Chicago, Illinois, USA",27-30 October 2024,4 July 2024,26 August 2024,15 August 2024,,https://focs.computer.org/2024/,Foundations of Computer Science
 DISC 2024,"Madrid, Spain",28 October - 1 November 2024,2 August 2024,22 August 2024,,workshops: 28 October & 1 November; main conference: 29-31 October 2024,https://www.disc-conference.org/wp/disc2024/,Distributed Computing
 KR 2024,"Hanoi, Vietnam",2-8 November 2024,10 July 2024,31 July 2024,,co-located withNMR,https://kr.org/KR2024/,Principles of Knowledge Representation and Reasoning
-Conference,"City, Country",Date,Notification,Final version,Early registration,Remarks and other indications

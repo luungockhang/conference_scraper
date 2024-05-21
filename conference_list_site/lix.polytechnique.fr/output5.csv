@@ -1,290 +1,289 @@
-AAAI,Artificial Intelligence
-AAIM,Algorithmic Aspects in Information and Management
-AAMAS,Autonomous Agents and Multiagent Systems
-ACDA,Applied and Computational Discrete Algorithms
-ADEMAL,Automated Deduction for Machine Learning
-ADG,Automated Deduction in Geometry
-ADT,Algorithmic Decision Theory
-AISC,Australasian Information Security Conference
-AIxIA,Italian Association for Artificial Intelligence
-ALENEX,Algorithm Engineering and Experiments
-ALGO,Federated Conference on Algorithms
-ALGOCLOUD,Algorithms for Cloud-Based Systems
-ALGOWIN,Algorithmic of Wireless Networks
-ALT,Algorithmic Learning Theory
-ANALCO,Analytic Algorithmics and Combinatorics
-ANTS,Algorithmic Number Theory Symposium
-APLAS,Asian Symposium on Programming Languages and Systems
-APOCS,Algorithmic Principles of Computer Systems
-APPROX,Approximation Algorithms for Combinatorial Optimization Problems
-ARQNL,Automated Reasoning in Quantified Non-Classical Logics
-ASE,Automated Software Engineering
-ASPOCP,Answer Set Programming and Other Computing Paradigms
-ATMOS,"Algorithmic Approaches for Transportation Modelling, Optimization, and Systems"
-ATVA,Automated Technology for Verification and Analysis
-AUTOMATA,Cellular Automata and Discrete Complex Systems
-AiML,Advances in Modal Logic
-AlCoB,Algorithms for Computational Biology
-AofA,"Probabilistic, Combinatorial, and Asymptotic Methods in theAnalysisofAlgorithms"
-BICOB,Bioinformatics and Computational Biology
-BLAST,"Boolean Algebras;Lattices, Algebraic Logic and Quantum Logic; UniversalAlgebra;Set Theory;  Set-theoretic and Point-freeTopology"
-CADE,Conference on Automated Deduction
-CALCO,Conference on Algebra and Coalgebra in Computer Science
-CALDAM,Conference on Algorithms and Discrete Applied Mathematics
-CAV,Computer-Aided Verification
-CAiSE,Advanced Information Systems Engineering
-CCA,Computability & Complexity in Analysis
-CCC,Computational Complexity Conference
-CCCG,Canadian Conference on Computational Geometry
-CCS,Computer and Communication Security
-CELT,Connections between Epistemic Logic and Topology
-CIAA,Conference on Implementation and Application of Automata
-CIAC,International Conference on Algorithms and Complexity
-CICM,Conference on Intelligent Computer Mathematics
-CILC,Italian Conference on Computational Logic
-CLAR,International Conference on Logic and Argumentation
-CLAS,Computational Logic Autumn Summit
-COCOA,Conference on Combinatorial Optimization and Applications
-COCOON,Computing and Combinatorics Conference
-COLT,Conference on Learning Theory
-CONCUR,Concurrency Theory
-CONFEST,CONCUR & QEST & FORMATS
-COORDINATION,Coordination Models and Languages
-CP,Principles and Practice of Constraint Programming
-CPAIOR,"Integration of Constraint Programming, Artificial Intelligence, and Operations Research"
-CPM,Combinatorial Pattern Matching
-CPML,Bridge on Constraint Programming and Machine Learning
-CPP,Certified Programs and Proofs
-CRYPTO,CRYPTO
-CSCML,"Cyber Security, Cryptology and Machine Learning"
-CSF,Computer Security Foundations
-CSL,Computer Science Logic
-CSR,Computer Science Symposium in Russia
-CTW,Cologne-Twente Workshop on Graphs and Combinatorial Optimization
-CiE,Computability in Europe
-CooPMAS,Cooperative Games and Multiagent Systems
-DAIS,Distributed Applications and Interoperable Systems
-DCC,Data Compression Conference
-DCFS,Descriptional Complexity of Formal Systems
-DCM,Developments in Computational Models
-DEBS,Distributed and Event-Based Systems
-DEON,Deontic Logic and Normative Systems
-DISC,Distributed Computing
-DL,Description Logics
-DLT,Developments in Language Theory
-DSAA,Data Science and Advanced Analytics
-DaLí,Dynamic Logic: new trends and applications
-Datalog 2.0,Datalog 2.0
-DisCoTec,Distributed Computing Techniques
-EC,Economics and Computation
-ECAI,European Conference on Artificial Intelligence
-ECMFA,European Conference on Modelling Foundations and Applications
-ECSQARU,European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty
-EDBT,Extending Database Technology
-EISA,Emerging Information Security and Applications
-EMAS,Engineering Multi-Agent Systems
-EML,Evolutionary Machine Learning
-EPIA,Portuguese Conference on Artificial Intelligence
-ESA,European Symposium on Algorithms
-ESOP,European Symposium on Programming
-ESORICS,European Symposium on Research in Computer Security
-ETAPS,European Joint Conferences on Theory & Practice of Software
-EUMAS,European Conference on Multi-Agent Systems
-EURO,EURO
-EUROCRYPT,Theory and Applications of Cryptographic Techniques
-Euro-Par,European Conference on Parallel and Distributed Computing
-EuroCG,European Workshop on Computational Geometry
-EuroGP,European Conference on Genetic Programming
-Eurocomb,"European Conference on Combinatorics, Graph Theory and Applications"
-EvoAPPS,Applications of Evolutionary Computation
-EvoCOP,Evolutionary Computation in Combinatorial Optimisation
-EvoMUSART,"Artificial Intelligence in Music, Sound, Art and Design"
-EvoStar,evo*
-FACS,Formal Aspects of Component Software
-FASE,Fundamental Approaches to Software Engineering
-FCDS,Financial Cryptography and Data Security
-FCRC,Federated Computing Research Conference
-FCT,Fundamentals of Computation Theory
-FLAIRS,FLAIRS
-FLOPS,Functional and Logic Programming
-FLoC,Federated Logic Conference
-FM,Formal Methods
-FMCAD,Formal Methods in Computer-Aided Design
-FMICS,Formal Methods for Industrial Critical Systems
-FOCS,Foundations of Computer Science
-FOIS,Formal Ontology in Information Systems
-FORMATS,Formal Modeling and Analysis of Timed Systems
-FORTE,"Formal Techniques for Distributed Objects, Components, and Systems"
-FROM,Working Formal Methods Symposium
-FSCD,Formal Structures for Computation and Deduction
-FSTTCS,Foundations of Software Technology and Theoretical Computer Science
-FTSCS,Formal Techniques for Safety-Critical Systems
-FUN,Fun With Algorithms
-FedCSIS,Federated Conference on Computer Science and Information Systems
-FoIKS,Foundations of Information and Knowledge Systems
-FoSSaCS,Foundations of Software Science and Computation Structures
-FroCoS,Frontiers of Combining Systems
-GD,Graph Drawing
-GECCO,Genetic and Evolutionary Computation Conference
-GETCO,Geometric and Topological Methods in Computer Science
-GandALF,"Games, Automata, Logics, and Formal Verification"
-HALG,Highlights of Algorithms
-HOR,Higher-Order Rewriting
-ICALP,"International Colloquium on Automata, Languages and Programming"
-ICAPS,International Conference on Automated Planning and Scheduling
-ICCS,International Conference on Conceptual Structures
-ICDCN,International Conference on Distributed Computing and Networking
-ICDCS,International Conference on Distributed Computing Systems
-ICDT,International Conference on Database Theory
-ICFCA,International Conference on Formal Concept Analysis
-ICFP,International Conference on Functional Programming
-ICGT,International Conference on Graph Transformation
-ICGraThe,International Conference on Graph Theory
-ICICS,International Conference on Information and Communications Security
-ICLP,International Conference on Logic Programming
-ICML,International Conference on Machine Learning
-ICTAC,International Colloquium on Theoretical Aspects of Computing
-ICTAI,International Conference on Tools with Artificial Intelligence
-ICTCS,Italian Conference on Theoretical Computer Science
-IDA,Intelligent Data Analysis
-IJCAI,International Joint Conference on Artificial Intelligence
-IJCAR,International Joint Conference on Automated Reasoning
-IJCKG,International Joint Conference on Knowledge Graphs
-ILP,Inductive Logic Programming
-IOTSMS,"Internet of Things: Systems, Management and Security"
-IPCO,Integer Programming and Combinatorial Optimization
-IPDPS,International Parallel &  Distributed Processing Symposium
-IPEC,International Symposium on Parameterized and Exact Computation
-ISAAC,International Symposium on Algorithms and Computation
-ISCO,International Symposium on Combinatorial Optimization
-ISPDC,International Symposium on Parallel and Distributed Computing
-ISPEC,Information Security Practice and Experience
-ISSAC,International Symposium on Symbolic and Algebraic Computation
-ITCS,Innovations in Theoretical Computer Science
-ITP,Interactive Theorem Proving
-IWC,International Workshop on Confluence
-IWIL,International Workshop on the Implementation of Logics
-IWOCA,International Workshop on Combinatorial Algorithms
-JAF,Journées sur les Arithmétiques Faibles
-JELIA,European Conference on Logics in Artificial Intelligence
-K-CAP,International Conference on Knowledge Capture
-KDD,Knowledge Discovery and Data Mining
-KI,German Conference on Artificial Intelligence
-KR,Principles of Knowledge Representation and Reasoning
-LAGOS,"Latin-American Algorithms, Graphs and Optimization Symposium"
-LAP,Logic and Applications
-LATA,Language and Automata Theory and Applications
-LATIN,Latin American Theoretical Informatics Symposium
-LICS,Logic in Computer Science
-LOD,"MachineLearning,Optimization,Data Science"
-LOFT,Logic and the Foundations of Game and Decision Theory
-LOPSTR,Logic-Based Program Synthesis and Transformation
-LORI,"Logic, Rationality and Interaction"
-LPAR,"Logic for Programming, Artificial Intelligence and Reasoning"
-LPNMR,Logic Programming and Non-Monotonic Reasoning
-LSFA,Logical and Semantic Frameworks with Applications
-LearnAut,Learning and Automata
-MATCH-UP,Matching Under Preferences
-MFCS,Mathematical Foundations of Computer Science
-MFPS,Mathematical Foundations of Programming Semantics
-MIWAI,Multi-Disciplinary International Conference on Artificial Intelligence
-MLCS,Machine Learning for Cybersecurity
-MLN,Machine Learning for Networking
-MPC,Mathematics of Program Construction
-NCL,Non-Classical Logics
-NFM,NASA Formal Methods
-NMR,Non-Monotonic Reasoning
-OLA,Optimization and Learning
-OPODIS,On Principles of Distributed Systems
-PAAR,Practical Aspects of Automated Reasoning
-PACT,Parallel Architectures and Compilation Techniques
-PADL,Practical Aspects of Declarative Languages
-PATAT,Practice and Theory of Automated Timetabling
-PC,Proof Complexity
-PKC,Public Key Cryptography
-PLP,Probabilistic Logic Programming
-PODC,Principles of Distributed Computing
-PODS,Principles of Database Systems
-POPL,Principles of Programming Languages
-PPDP,Principles and Practice of Declarative Programming
-PRICAI,Pacific Rim International Conference on Artificial Intelligence
-PRIMA,Principles and Practice of Multi-Agent Systems
-PST,"Privacy, Security & Trust"
-PaCT,Parallel Architectures and Compilation Techniques
-PoS,Pragmatics of SAT
-QBF,Quantified Boolean Formulas and Beyond
-QEST,Quantitative Evaluation of SysTems
-QUANTIFY,Workshop on Quantification
-RAMiCS,Relational and Algebraic Methods in Computer Science
-RANDOM,Randomization and Computation
-RECOMB,Research in Computational Molecular Biology
-RP,Reachability Problems
-RuleML+RR,International Joint Conference on Rules and Reasoning
-SAC,Symposium On Applied Computing
-SAFECOMP,"Computer Safety, Reliability and Security"
-SAGT,Symposium on Algorithmic Game Theory
-SAND,Algorithmic Foundations of Dynamic Networks
-SAS,Static Analysis Symposium
-SAT,Theory and Applications of Satisfiability Testing
-SC2,Satisfiability Checking and Symbolic Computation
-SCAI,Scandinavian Conference on AI
-SCN,Security and Cryptography for Networks
-SCSS,Symbolic Computation in Software Science
-SDM,Data Mining
-SEA,Symposium on Experimental Algorithms
-SEFM,Software Engineering and Formal Methods
-SEMANTICS,Semantic Systems
-SIGMOD,International Conference on Management of Data
-SIROCCO,Structural Information and Communication Complexity
-SISAP,Similarity Search and Applications
-SLSS,Scandinavian Logic Symposium
-SODA,Symposium on Discrete Algorithms
-SOFSEM,Current Trends in Theory and Practice of Computer Science
-SOSA,Symposium on Simplicity in Algorithms
-SPAA,Symposium on Parallelism in Algorithms and Architectures
-SPIN,International Symposium on Model Checking Software
-SPIRE,String Processing and Information Retrieval
-SPLASH,"Systems, Programming, Languages, and Applications: Software for Humanity"
-STACS,Symposium on Theoretical Aspects of Computer Science
-STAF,Software Technologies: Applications and Foundations
-STOC,Symposium on Theory of Computing
-SWAT,Scandinavian Symposium and Workshops on Algorithm Theory
-SYNASC,Symbolic and Numeric Algorithms for Scientific Computing
-SmartData,Smart Data
-SoCG,Symposium on Computational Geometry
-SoCS,Symposium on Combinatorial Search
-TABLEAUX,Automated Reasoning with Analytic Tableaux and Related Methods
-TACAS,Tools and Algorithms for the Construction and Analysis of Systems
-TACL,"Topology, Algebra, and Categories in Logic"
-TAMC,Theory and Applications of Models of Computation
-TAP,Tests and Proofs
-TASE,Theoretical Aspects of Software Engineering
-TERMGRAPH,Computing with Terms and Graphs
-TIME,Temporal Representation and Reasoning
-TPNC,Theory and Practice of Natural Computing
-TYPES,Types for Proofs and Programs
-TbiLLC,"Tbilisi Symposium on Logic, Language and Computation"
-ThEdu,Theorem proving components for Educational software
-UNIF,Workshop on Unification
-VMCAI,"Verification, Model Checking, and Abstract Interpretation"
-VSTTE,"Verified Software: Theories, Tools, and Experiments"
-WABCT,"Workshop on Algorithms, Bioinformatics, and Computation Theory"
-WABI,Workshop on Algorithms in Bioinformatics
-WADS,Algorithms and Data Structures
-WADT,Workshop on Algebraic Development Techniques
-WAIT,Workshop on Automated (Co)Inductive Theorem Proving
-WALCOM,International Conference and Workshops on Algorithms and Computation
-WAOA,Workshop on Approximation and Online Algorithms
-WFLP,Workshop on Functional and Logic Programming
-WG,Graph-Theoretic Concepts in Computer Science
-WINE,Web and Internet Economics
-WISE,Web Information Systems Engineering
-WORDS,Combinatorics on Words
-WPTE,Workshop on Rewriting Techniques for Program Transformations and Evaluation
-WRLA,Workshop on Rewriting Logic and its Applications
-WST,Workshop on Termination
-WTSC,Workshop on Trusted Smart Contracts
-WoLLIC,"Workshop on Logic, Language, Information and Computation"
-iFM,Integrated Formal Methods
-iPRA,Interpolation: From Proofs to Applications
-onto4FAIR,Ontologies for FAIR and FAIR Ontologies
+AAAI,Artificial Intelligence,Website,Description
+AAIM,Algorithmic Aspects in Information and Management,Website,Description
+AAMAS,Autonomous Agents and Multiagent Systems,Website,Description
+ACDA,Applied and Computational Discrete Algorithms,Website,Description
+ADEMAL,Automated Deduction for Machine Learning,Website,Description
+ADG,Automated Deduction in Geometry,Website,Description
+ADT,Algorithmic Decision Theory,Website,Description
+AISC,Australasian Information Security Conference,Website,Description
+AIxIA,Italian Association for Artificial Intelligence,Website,Description
+ALENEX,Algorithm Engineering and Experiments,Website,Description
+ALGO,Federated Conference on Algorithms,Website,Description
+ALGOCLOUD,Algorithms for Cloud-Based Systems,Website,Description
+ALGOWIN,Algorithmic of Wireless Networks,Website,Description
+ALT,Algorithmic Learning Theory,Website,Description
+ANALCO,Analytic Algorithmics and Combinatorics,Website,Description
+ANTS,Algorithmic Number Theory Symposium,Website,Description
+APLAS,Asian Symposium on Programming Languages and Systems,Website,Description
+APOCS,Algorithmic Principles of Computer Systems,Website,Description
+APPROX,Approximation Algorithms for Combinatorial Optimization Problems,Website,Description
+ARQNL,Automated Reasoning in Quantified Non-Classical Logics,Website,Description
+ASE,Automated Software Engineering,Website,Description
+ASPOCP,Answer Set Programming and Other Computing Paradigms,Website,Description
+ATMOS,"Algorithmic Approaches for Transportation Modelling, Optimization, and Systems",Website,Description
+ATVA,Automated Technology for Verification and Analysis,Website,Description
+AUTOMATA,Cellular Automata and Discrete Complex Systems,Website,Description
+AiML,Advances in Modal Logic,Website,Description
+AlCoB,Algorithms for Computational Biology,Website,Description
+AofA,"Probabilistic, Combinatorial, and Asymptotic Methods in theAnalysisofAlgorithms",Website,Description
+BICOB,Bioinformatics and Computational Biology,Website,Description
+BLAST,"Boolean Algebras;Lattices, Algebraic Logic and Quantum Logic; UniversalAlgebra;Set Theory;  Set-theoretic and Point-freeTopology",Website,Description
+CADE,Conference on Automated Deduction,Website,Description
+CALCO,Conference on Algebra and Coalgebra in Computer Science,Website,Description
+CALDAM,Conference on Algorithms and Discrete Applied Mathematics,Website,Description
+CAV,Computer-Aided Verification,Website,Description
+CAiSE,Advanced Information Systems Engineering,Website,Description
+CCA,Computability & Complexity in Analysis,Website,Description
+CCC,Computational Complexity Conference,Website,Description
+CCCG,Canadian Conference on Computational Geometry,Website,Description
+CCS,Computer and Communication Security,Website,Description
+CELT,Connections between Epistemic Logic and Topology,Website,Description
+CIAA,Conference on Implementation and Application of Automata,Website,Description
+CIAC,International Conference on Algorithms and Complexity,Website,Description
+CICM,Conference on Intelligent Computer Mathematics,Website,Description
+CILC,Italian Conference on Computational Logic,Website,Description
+CLAR,International Conference on Logic and Argumentation,Website,Description
+CLAS,Computational Logic Autumn Summit,Website,Description
+COCOA,Conference on Combinatorial Optimization and Applications,Website,Description
+COCOON,Computing and Combinatorics Conference,Website,Description
+COLT,Conference on Learning Theory,Website,Description
+CONCUR,Concurrency Theory,Website,Description
+CONFEST,CONCUR & QEST & FORMATS,Website,Description
+COORDINATION,Coordination Models and Languages,Website,Description
+CP,Principles and Practice of Constraint Programming,Website,Description
+CPAIOR,"Integration of Constraint Programming, Artificial Intelligence, and Operations Research",Website,Description
+CPM,Combinatorial Pattern Matching,Website,Description
+CPML,Bridge on Constraint Programming and Machine Learning,Website,Description
+CPP,Certified Programs and Proofs,Website,Description
+CRYPTO,CRYPTO,Website,Description
+CSCML,"Cyber Security, Cryptology and Machine Learning",Website,Description
+CSF,Computer Security Foundations,Website,Description
+CSL,Computer Science Logic,Website,Description
+CSR,Computer Science Symposium in Russia,Website,Description
+CTW,Cologne-Twente Workshop on Graphs and Combinatorial Optimization,Website,Description
+CiE,Computability in Europe,Website,Description
+CooPMAS,Cooperative Games and Multiagent Systems,Website,Description
+DAIS,Distributed Applications and Interoperable Systems,Website,Description
+DCC,Data Compression Conference,Website,Description
+DCFS,Descriptional Complexity of Formal Systems,Website,Description
+DCM,Developments in Computational Models,Website,Description
+DEBS,Distributed and Event-Based Systems,Website,Description
+DEON,Deontic Logic and Normative Systems,Website,Description
+DISC,Distributed Computing,Website,Description
+DL,Description Logics,Website,Description
+DLT,Developments in Language Theory,Website,Description
+DSAA,Data Science and Advanced Analytics,Website,Description
+DaLí,Dynamic Logic: new trends and applications,Website,Description
+Datalog 2.0,Datalog 2.0,Website,Description
+DisCoTec,Distributed Computing Techniques,Website,Description
+EC,Economics and Computation,Website,Description
+ECAI,European Conference on Artificial Intelligence,Website,Description
+ECMFA,European Conference on Modelling Foundations and Applications,Website,Description
+ECSQARU,European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty,Website,Description
+EDBT,Extending Database Technology,Website,Description
+EISA,Emerging Information Security and Applications,Website,Description
+EMAS,Engineering Multi-Agent Systems,Website,Description
+EML,Evolutionary Machine Learning,Website,Description
+EPIA,Portuguese Conference on Artificial Intelligence,Website,Description
+ESA,European Symposium on Algorithms,Website,Description
+ESOP,European Symposium on Programming,Website,Description
+ESORICS,European Symposium on Research in Computer Security,Website,Description
+ETAPS,European Joint Conferences on Theory & Practice of Software,Website,Description
+EUMAS,European Conference on Multi-Agent Systems,Website,Description
+EURO,EURO,Website,Description
+EUROCRYPT,Theory and Applications of Cryptographic Techniques,Website,Description
+Euro-Par,European Conference on Parallel and Distributed Computing,Website,Description
+EuroCG,European Workshop on Computational Geometry,Website,Description
+EuroGP,European Conference on Genetic Programming,Website,Description
+Eurocomb,"European Conference on Combinatorics, Graph Theory and Applications",Website,Description
+EvoAPPS,Applications of Evolutionary Computation,Website,Description
+EvoCOP,Evolutionary Computation in Combinatorial Optimisation,Website,Description
+EvoMUSART,"Artificial Intelligence in Music, Sound, Art and Design",Website,Description
+EvoStar,evo*,Website,Description
+FACS,Formal Aspects of Component Software,Website,Description
+FASE,Fundamental Approaches to Software Engineering,Website,Description
+FCDS,Financial Cryptography and Data Security,Website,Description
+FCRC,Federated Computing Research Conference,Website,Description
+FCT,Fundamentals of Computation Theory,Website,Description
+FLAIRS,FLAIRS,Website,Description
+FLOPS,Functional and Logic Programming,Website,Description
+FLoC,Federated Logic Conference,Website,Description
+FM,Formal Methods,Website,Description
+FMCAD,Formal Methods in Computer-Aided Design,Website,Description
+FMICS,Formal Methods for Industrial Critical Systems,Website,Description
+FOCS,Foundations of Computer Science,Website,Description
+FOIS,Formal Ontology in Information Systems,Website,Description
+FORMATS,Formal Modeling and Analysis of Timed Systems,Website,Description
+FORTE,"Formal Techniques for Distributed Objects, Components, and Systems",Website,Description
+FROM,Working Formal Methods Symposium,Website,Description
+FSCD,Formal Structures for Computation and Deduction,Website,Description
+FSTTCS,Foundations of Software Technology and Theoretical Computer Science,Website,Description
+FTSCS,Formal Techniques for Safety-Critical Systems,Website,Description
+FUN,Fun With Algorithms,Website,Description
+FedCSIS,Federated Conference on Computer Science and Information Systems,Website,Description
+FoIKS,Foundations of Information and Knowledge Systems,Website,Description
+FoSSaCS,Foundations of Software Science and Computation Structures,Website,Description
+FroCoS,Frontiers of Combining Systems,Website,Description
+GD,Graph Drawing,Website,Description
+GECCO,Genetic and Evolutionary Computation Conference,Website,Description
+GETCO,Geometric and Topological Methods in Computer Science,Website,Description
+GandALF,"Games, Automata, Logics, and Formal Verification",Website,Description
+HALG,Highlights of Algorithms,Website,Description
+HOR,Higher-Order Rewriting,Website,Description
+ICALP,"International Colloquium on Automata, Languages and Programming",Website,Description
+ICAPS,International Conference on Automated Planning and Scheduling,Website,Description
+ICCS,International Conference on Conceptual Structures,Website,Description
+ICDCN,International Conference on Distributed Computing and Networking,Website,Description
+ICDCS,International Conference on Distributed Computing Systems,Website,Description
+ICDT,International Conference on Database Theory,Website,Description
+ICFCA,International Conference on Formal Concept Analysis,Website,Description
+ICFP,International Conference on Functional Programming,Website,Description
+ICGT,International Conference on Graph Transformation,Website,Description
+ICGraThe,International Conference on Graph Theory,Website,Description
+ICICS,International Conference on Information and Communications Security,Website,Description
+ICLP,International Conference on Logic Programming,Website,Description
+ICML,International Conference on Machine Learning,Website,Description
+ICTAC,International Colloquium on Theoretical Aspects of Computing,Website,Description
+ICTAI,International Conference on Tools with Artificial Intelligence,Website,Description
+ICTCS,Italian Conference on Theoretical Computer Science,Website,Description
+IDA,Intelligent Data Analysis,Website,Description
+IJCAI,International Joint Conference on Artificial Intelligence,Website,Description
+IJCAR,International Joint Conference on Automated Reasoning,Website,Description
+IJCKG,International Joint Conference on Knowledge Graphs,Website,Description
+ILP,Inductive Logic Programming,Website,Description
+IOTSMS,"Internet of Things: Systems, Management and Security",Website,Description
+IPCO,Integer Programming and Combinatorial Optimization,Website,Description
+IPDPS,International Parallel &  Distributed Processing Symposium,Website,Description
+IPEC,International Symposium on Parameterized and Exact Computation,Website,Description
+ISAAC,International Symposium on Algorithms and Computation,Website,Description
+ISCO,International Symposium on Combinatorial Optimization,Website,Description
+ISPDC,International Symposium on Parallel and Distributed Computing,Website,Description
+ISPEC,Information Security Practice and Experience,Website,Description
+ISSAC,International Symposium on Symbolic and Algebraic Computation,Website,Description
+ITCS,Innovations in Theoretical Computer Science,Website,Description
+ITP,Interactive Theorem Proving,Website,Description
+IWC,International Workshop on Confluence,Website,Description
+IWIL,International Workshop on the Implementation of Logics,Website,Description
+IWOCA,International Workshop on Combinatorial Algorithms,Website,Description
+JAF,Journées sur les Arithmétiques Faibles,Website,Description
+JELIA,European Conference on Logics in Artificial Intelligence,Website,Description
+K-CAP,International Conference on Knowledge Capture,Website,Description
+KDD,Knowledge Discovery and Data Mining,Website,Description
+KI,German Conference on Artificial Intelligence,Website,Description
+KR,Principles of Knowledge Representation and Reasoning,Website,Description
+LAGOS,"Latin-American Algorithms, Graphs and Optimization Symposium",Website,Description
+LAP,Logic and Applications,Website,Description
+LATA,Language and Automata Theory and Applications,Website,Description
+LATIN,Latin American Theoretical Informatics Symposium,Website,Description
+LICS,Logic in Computer Science,Website,Description
+LOD,"MachineLearning,Optimization,Data Science",Website,Description
+LOFT,Logic and the Foundations of Game and Decision Theory,Website,Description
+LOPSTR,Logic-Based Program Synthesis and Transformation,Website,Description
+LORI,"Logic, Rationality and Interaction",Website,Description
+LPAR,"Logic for Programming, Artificial Intelligence and Reasoning",Website,Description
+LPNMR,Logic Programming and Non-Monotonic Reasoning,Website,Description
+LSFA,Logical and Semantic Frameworks with Applications,Website,Description
+LearnAut,Learning and Automata,Website,Description
+MATCH-UP,Matching Under Preferences,Website,Description
+MFCS,Mathematical Foundations of Computer Science,Website,Description
+MFPS,Mathematical Foundations of Programming Semantics,Website,Description
+MIWAI,Multi-Disciplinary International Conference on Artificial Intelligence,Website,Description
+MLCS,Machine Learning for Cybersecurity,Website,Description
+MLN,Machine Learning for Networking,Website,Description
+MPC,Mathematics of Program Construction,Website,Description
+NCL,Non-Classical Logics,Website,Description
+NFM,NASA Formal Methods,Website,Description
+NMR,Non-Monotonic Reasoning,Website,Description
+OLA,Optimization and Learning,Website,Description
+OPODIS,On Principles of Distributed Systems,Website,Description
+PAAR,Practical Aspects of Automated Reasoning,Website,Description
+PACT,Parallel Architectures and Compilation Techniques,Website,Description
+PADL,Practical Aspects of Declarative Languages,Website,Description
+PATAT,Practice and Theory of Automated Timetabling,Website,Description
+PC,Proof Complexity,Website,Description
+PKC,Public Key Cryptography,Website,Description
+PLP,Probabilistic Logic Programming,Website,Description
+PODC,Principles of Distributed Computing,Website,Description
+PODS,Principles of Database Systems,Website,Description
+POPL,Principles of Programming Languages,Website,Description
+PPDP,Principles and Practice of Declarative Programming,Website,Description
+PRICAI,Pacific Rim International Conference on Artificial Intelligence,Website,Description
+PRIMA,Principles and Practice of Multi-Agent Systems,Website,Description
+PST,"Privacy, Security & Trust",Website,Description
+PaCT,Parallel Architectures and Compilation Techniques,Website,Description
+PoS,Pragmatics of SAT,Website,Description
+QBF,Quantified Boolean Formulas and Beyond,Website,Description
+QEST,Quantitative Evaluation of SysTems,Website,Description
+QUANTIFY,Workshop on Quantification,Website,Description
+RAMiCS,Relational and Algebraic Methods in Computer Science,Website,Description
+RANDOM,Randomization and Computation,Website,Description
+RECOMB,Research in Computational Molecular Biology,Website,Description
+RP,Reachability Problems,Website,Description
+RuleML+RR,International Joint Conference on Rules and Reasoning,Website,Description
+SAC,Symposium On Applied Computing,Website,Description
+SAFECOMP,"Computer Safety, Reliability and Security",Website,Description
+SAGT,Symposium on Algorithmic Game Theory,Website,Description
+SAND,Algorithmic Foundations of Dynamic Networks,Website,Description
+SAS,Static Analysis Symposium,Website,Description
+SAT,Theory and Applications of Satisfiability Testing,Website,Description
+SC2,Satisfiability Checking and Symbolic Computation,Website,Description
+SCAI,Scandinavian Conference on AI,Website,Description
+SCN,Security and Cryptography for Networks,Website,Description
+SCSS,Symbolic Computation in Software Science,Website,Description
+SDM,Data Mining,Website,Description
+SEA,Symposium on Experimental Algorithms,Website,Description
+SEFM,Software Engineering and Formal Methods,Website,Description
+SEMANTICS,Semantic Systems,Website,Description
+SIGMOD,International Conference on Management of Data,Website,Description
+SIROCCO,Structural Information and Communication Complexity,Website,Description
+SISAP,Similarity Search and Applications,Website,Description
+SLSS,Scandinavian Logic Symposium,Website,Description
+SODA,Symposium on Discrete Algorithms,Website,Description
+SOFSEM,Current Trends in Theory and Practice of Computer Science,Website,Description
+SOSA,Symposium on Simplicity in Algorithms,Website,Description
+SPAA,Symposium on Parallelism in Algorithms and Architectures,Website,Description
+SPIN,International Symposium on Model Checking Software,Website,Description
+SPIRE,String Processing and Information Retrieval,Website,Description
+SPLASH,"Systems, Programming, Languages, and Applications: Software for Humanity",Website,Description
+STACS,Symposium on Theoretical Aspects of Computer Science,Website,Description
+STAF,Software Technologies: Applications and Foundations,Website,Description
+STOC,Symposium on Theory of Computing,Website,Description
+SWAT,Scandinavian Symposium and Workshops on Algorithm Theory,Website,Description
+SYNASC,Symbolic and Numeric Algorithms for Scientific Computing,Website,Description
+SmartData,Smart Data,Website,Description
+SoCG,Symposium on Computational Geometry,Website,Description
+SoCS,Symposium on Combinatorial Search,Website,Description
+TABLEAUX,Automated Reasoning with Analytic Tableaux and Related Methods,Website,Description
+TACAS,Tools and Algorithms for the Construction and Analysis of Systems,Website,Description
+TACL,"Topology, Algebra, and Categories in Logic",Website,Description
+TAMC,Theory and Applications of Models of Computation,Website,Description
+TAP,Tests and Proofs,Website,Description
+TASE,Theoretical Aspects of Software Engineering,Website,Description
+TERMGRAPH,Computing with Terms and Graphs,Website,Description
+TIME,Temporal Representation and Reasoning,Website,Description
+TPNC,Theory and Practice of Natural Computing,Website,Description
+TYPES,Types for Proofs and Programs,Website,Description
+TbiLLC,"Tbilisi Symposium on Logic, Language and Computation",Website,Description
+ThEdu,Theorem proving components for Educational software,Website,Description
+UNIF,Workshop on Unification,Website,Description
+VMCAI,"Verification, Model Checking, and Abstract Interpretation",Website,Description
+VSTTE,"Verified Software: Theories, Tools, and Experiments",Website,Description
+WABCT,"Workshop on Algorithms, Bioinformatics, and Computation Theory",Website,Description
+WABI,Workshop on Algorithms in Bioinformatics,Website,Description
+WADS,Algorithms and Data Structures,Website,Description
+WADT,Workshop on Algebraic Development Techniques,Website,Description
+WAIT,Workshop on Automated (Co)Inductive Theorem Proving,Website,Description
+WALCOM,International Conference and Workshops on Algorithms and Computation,Website,Description
+WAOA,Workshop on Approximation and Online Algorithms,Website,Description
+WFLP,Workshop on Functional and Logic Programming,Website,Description
+WG,Graph-Theoretic Concepts in Computer Science,Website,Description
+WINE,Web and Internet Economics,Website,Description
+WISE,Web Information Systems Engineering,Website,Description
+WORDS,Combinatorics on Words,Website,Description
+WPTE,Workshop on Rewriting Techniques for Program Transformations and Evaluation,Website,Description
+WRLA,Workshop on Rewriting Logic and its Applications,Website,Description
+WST,Workshop on Termination,Website,Description
+WTSC,Workshop on Trusted Smart Contracts,Website,Description
+WoLLIC,"Workshop on Logic, Language, Information and Computation",Website,Description
+iFM,Integrated Formal Methods,Website,Description
+iPRA,Interpolation: From Proofs to Applications,Website,Description

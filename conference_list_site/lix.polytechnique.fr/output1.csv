@@ -1,4 +1,4 @@
-Conference,"City, Country",Deadline,Date,Notification,Submission format and comments
+Conference,"City, Country",Deadline,Date,Notification,Submission format and comments,Website,Description
 PPDP  2024,"Milan, Italy",15/22 May 2024,9-11 September 2024,3 July 2024,"ACM, 2 column,
 	      12 pages excluding references regular, 10 pages system descriptions,5 pages including references experience reports;
 	      co-located withFMandLOPSTR",https://ppdp2024.github.io/,Principles and Practice of Declarative Programming
@@ -71,4 +71,3 @@ TERMGRAPH 2024,post-proceedings,1 August 2024,7 April 2024,15 September 2024,"
 KDD,???,1/8 August 2024,,,,https://kdd2024.kdd.org/,Knowledge Discovery and Data Mining
 WADT,post-proceedings,16 September 2024,,25 November 2024,dates for post-proceedings,https://conf.researchr.org/home/wadt-2024,Workshop on Algebraic Development Techniques
 WALCOM 2025,"Chengdu, China",22 September 2024,28 February - 2 March 2025,8 November 2024,"LNCS, 14 pages",https://tcsuestc.com/walcom2025,International Conference and Workshops on Algorithms and Computation
-Conference,"City, Country",Deadline,Date,Notification,Submission format and comments

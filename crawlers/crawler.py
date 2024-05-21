@@ -66,7 +66,10 @@ def crawler():
                     table_data.append(cell_data)
                 else:
                     cell_data = [cell.get_text(strip=True) for cell in row.find_all(['th', 'td'])]
+                    cell_data.append('Website')
+                    cell_data.append('Description')
                     table_data.append(cell_data)
+            del table_data[-1] # Delete the final row (which is another header)
             writer.writerows(table_data)
             file_number+=1
             file_name = 'output' + str(file_number) + '.csv'
