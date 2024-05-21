@@ -9,6 +9,7 @@ import requests
 import time
 import random
 import os
+import re
 
 def crawler():
     # load website
@@ -19,7 +20,7 @@ def crawler():
     
     # data goes to this folder
     file_number = 1
-    folder = '../conference_list_site/lix.polytechnique.fr'
+    folder = 'conference_list_site/lix.polytechnique.fr'
     if not os.path.exists(folder):
         os.makedirs(folder)
     file_name = 'output' + str(file_number) + '.csv'
@@ -36,21 +37,30 @@ def crawler():
                 # [<td class="confname"><a href="https://www.iclp24.utdallas.edu/" target="_blank">ICLP<br>&nbsp;</a>
                 #   <span class="tooltiptext">International Conference on Logic Programming</span>
                 # </td>]
-                if len(cell_with_confname) != 0: 
+                if len(cell_with_confname) != 0: # If it is not header row
                     a_tag = cell_with_confname[0].find_all("a",href=True) 
                     # [<a href="https://www.iclp24.utdallas.edu/" target="_blank">ICLP<br>&nbsp;</a>]
                     website_link = a_tag[0]['href']
                     cell_data = []
                     conf_full_name = ''
                     conf_short_name = ''
-                    for cell in row.find_all(['th','td']):
-                        if cell['class'][0] == 'confname':
+                    year = ''
+                    for cell in row.find_all(['th','td']): # get all cells in a row
+                        if cell['class'][0] == 'date':
+                            date = cell.get_text()
+                            if len(date) > 0:
+                                match = re.search(r"\d{4}", date)
+                                year = match.group()
+                            else:
+                                year = ''
+                        if cell['class'][0] == 'confname': # if this class is confname
                             conf_short_name = cell.a.get_text()
                             conf_full_name = cell.span.get_text()
                             cell_data.append(conf_short_name)
                             continue
                         cell_data.append(cell.get_text(strip=True))
-                    [cell.get_text(strip=True) for cell in row.find_all(['th', 'td'])]
+                    if not year == '':
+                        cell_data[0]+= " {0}".format(year)
                     cell_data.append(website_link)
                     cell_data.append(conf_full_name)
                     table_data.append(cell_data)

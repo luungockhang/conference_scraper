@@ -1,82 +1,74 @@
 Conference,"City, Country",Deadline,Date,Notification,Submission format and comments
-DISC,"Madrid, Spain",7/14 May 2024,28 October - 1 November 2024,2 August 2024,"LIPIcs,double-blind, no page limit, but only first 15 pages read, 15 pages excluding references in proceedings",https://www.disc-conference.org/wp/disc2024/,Distributed Computing
-TAP,"Milan, Italy",8/15 May 2024,9–10 September 2024,26 June 2024,"LNCS, 16 pages regular + tools + case studies, 6 pages short, all excluding references;
-	      co-located withFM",https://tapconference.github.io/2024/,Tests and Proofs
-FACS,"Milan, Italy",8/15 May 2024,9-10 September 2024,26 June 2024,"LNCS, 16 pages full, 6 pages short, 16 pages special tract, all excluding references;
-	      co-located withFM",https://facs-conference.github.io/2024/,Formal Aspects of Component Software
-PoS  ,"Pune, India",13/18 May 202427 May 20245 June 2024,20 August 2024,23 June 2023,"CEURART, 1 column,
-	      15 pages long, 8 pages short, both excluding references,8 pages competition solver description;3rd deadline for SAT fast track, last deadline for competition solver descriptions;
-	      satellite event ofSAT",http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
-QUANTIFY,"Nancy, France",15 May 2024,1 July 2024,30 May 2024,"LNCS, 15 pages full and tutorial, 2 pages talk abstracts, all excluding references;
-	      co-located withIJCAR",https://qbf24.pages.sai.jku.at/quantify/,Workshop on Quantification
-WAIT,"Nancy, France",15 May 2024,2 July 2024,1 June 2024,"EasyChair, 2 pages;
-	      co-located withIJCAR",https://wait2024.github.io/,Workshop on Automated (Co)Inductive Theorem Proving
-LOPSTR,"Milan, Italy",15/19 May 2024,9-11 September 2024,26 June 2024,"LNCS, 15 pages regular, 8 pages short, both excluding references;
-	      co-located withFMandPPDP",https://lopstr.github.io/2024/,Logic-Based Program Synthesis and Transformation
-PPDP ,"Milan, Italy",15/22 May 2024,9-11 September 2024,3 July 2024,"ACM, 2 column,
+PPDP  2024,"Milan, Italy",15/22 May 2024,9-11 September 2024,3 July 2024,"ACM, 2 column,
 	      12 pages excluding references regular, 10 pages system descriptions,5 pages including references experience reports;
 	      co-located withFMandLOPSTR",https://ppdp2024.github.io/,Principles and Practice of Declarative Programming
-WABI,"Egham, United Kingdom",19 May 2024,2-4 September 2024,23 June 2024,"LIPIcs,
+DSAA 2024,"San Diego, California, USA",20 May 2024,6-10 October 2024,24 July 2024,"IEEE,
+	      2 columns, 10 pages",https://dsaa2024.dsaa.co/,Data Science and Advanced Analytics
+PoS   2024,"Pune, India",20/25 May 202427 May 20245 June 2024,20 August 2024,23 June 2023,"CEURART, 1 column,
+	      15 pages long, 8 pages short, both excluding references,8 pages competition solver description;3rd deadline for SAT fast track, last deadline for competition solver descriptions;
+	      satellite event ofSAT",http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
+SAGT 2024,"Amsterdam, The Netherlands",21 May 2024,3-6 September 2024,5 July 2024,"LNCS, 18 pages excluding references",https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/,Symposium on Algorithmic Game Theory
+LOD 2024,"Castiglione della Pescaia, Italy",23 May 2024,22-25 September 2024,23 June 2024,"LNCS, 15 pages long, 11 pages short",https://lod2024.icas.events/,"Machine Learning, Optimization, Data Science"
+FACS 2024,"Milan, Italy",23/30 May 2024,9-10 September 2024,3 July 2024,"LNCS, 16 pages full, 6 pages short, 16 pages special tract, all excluding references;
+	      co-located withFM",https://facs-conference.github.io/2024/,Formal Aspects of Component Software
+APLAS 2024,"Kyoto, Japan",24 May 2024,22-25 October 2024,2 August 2024,"LNCS, 17 pages excluding references",https://conf.researchr.org/home/aplas-2024,Asian Symposium on Programming Languages and Systems
+ADT 2024,"Piscataway, New Jersey, USA",24/31 May 2024,14-16 October 2024,19 July 2024,"LNCS, 15 pages",https://preflib.github.io/adt2024/,Algorithmic Decision Theory
+WABI 2024,"Egham, United Kingdom",26 May 2024,2-4 September 2024,30 June 2024,"LIPIcs,
 	      15 pages excluding front matter and references;
 	      part ofALGO",https://algo-conference.org/2024/wabi/,Workshop on Algorithms in Bioinformatics
-SAS,"Pasadena, California, USA",19 May 2024,20-25 October 2024,16 July 2024,"double-blind, no page limit",https://2024.splashcon.org/home/sas-2024,Static Analysis Symposium
-DSAA,"San Diego, California, USA",20 May 2024,6-10 October 2024,24 July 2024,"IEEE,
-	      2 columns, 10 pages",https://dsaa2024.dsaa.co/,Data Science and Advanced Analytics
-SAGT,"Amsterdam, The Netherlands",21 May 2024,3-6 September 2024,5 July 2024,"LNCS, 18 pages excluding references",https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/,Symposium on Algorithmic Game Theory
-LOD,"Castiglione della Pescaia, Italy",23 May 2024,22-25 September 2024,23 June 2024,"LNCS, 15 pages long, 11 pages short",https://lod2024.icas.events/,"Machine Learning, Optimization, Data Science"
-APLAS,"Kyoto, Japan",24 May 2024,22-25 October 2024,2 August 2024,"LNCS, 17 pages excluding references",https://conf.researchr.org/home/aplas-2024,Asian Symposium on Programming Languages and Systems
-ADT,"Piscataway, New Jersey, USA",24/31 May 2024,14-16 October 2024,19 July 2024,"LNCS, 15 pages",https://preflib.github.io/adt2024/,Algorithmic Decision Theory
-RP,"Vienna, Austria",27/30 May 2024,25-27 September 2024,11 July 2024,"LNCS, 12 pages",https://easychair.org/smart-program/RP24/,Reachability Problems
-GD ,"Vienna, Austria",31 May / 7 June 2024,18-20 September 2024,20 July 2024,"LIPIcswithown LaTeX class,double-blind,
+RP 2024,"Vienna, Austria",27/30 May 2024,25-27 September 2024,11 July 2024,"LNCS, 12 pages",https://easychair.org/smart-program/RP24/,Reachability Problems
+GD  2024,"Vienna, Austria",31 May / 7 June 2024,18-20 September 2024,20 July 2024,"LIPIcswithown LaTeX class,double-blind,
 	      500 lines regular, 225 lines short,both excluding front matter and references",https://graphdrawing.github.io/gd2024//,Graph Drawing
-LSFA,"Goiânia, Brazil",31 May / 7 June 2024,18-20 September 2024,,"EPTCS, 16 pages full, 6 pages short",https://sites.google.com/ufg.br/lsfa2024,Logical and Semantic Frameworks with Applications
-IOTSMS,"Malmö, Sweden",1 June 2024,2-5 September 2024,15 July 2024,"IEEE, 2 column,
+LSFA 2024,"Goiânia, Brazil",31 May / 7 June 2024,18-20 September 2024,7 August 2024,"EPTCS, 16 pages full, 6 pages short",https://sites.google.com/ufg.br/lsfa2024,Logical and Semantic Frameworks with Applications
+IOTSMS 2024,"Malmö, Sweden",1 June 2024,2-5 September 2024,15 July 2024,"IEEE, 2 column,
 	      8 pages full regular, 6 pages short, 3 pages posters and demos",https://emergingtechnet.org/IOTSMS2024/,"Internet of Things: Systems, Management and Security"
-AAIM,"Dallas, Texas. USA",1 June 2024,21-23 September 2024,1 July 2024,"LNCS, 12 pages",https://theory.utdallas.edu/AAIM2024/,Algorithmic Aspects in Information and Management
-RuleML+RR,"Bucharest, Romania",1/7 June 2024,16-18 September 2024,19 July 2024,"LNCS, 15 pages long, 8 pages short",https://2024.declarativeai.net/events/ruleml-rr,International Joint Conference on Rules and Reasoning
-JAF,"Passau, Germany",2 June 2024,9-11 September 2024,2 July 2024,3 pages,https://www.uni-passau.de/en/jaf,Journées sur les Arithmétiques Faibles
-iFM,"Manchester, UK",3/10 June 2024,13-15 November 2024,5 August 2024,"LNCS, 16 pages regular, 6 pages short",https://ifm2024.cs.manchester.ac.uk/,Integrated Formal Methods
-ALGOWIN,"Egham, United Kingdom",7 June 2024,5-6 September 2024,1 August 2024,"LNCS,12 pages excluding referenes;
+AAIM 2024,"Dallas, Texas. USA",1 June 2024,21-23 September 2024,1 July 2024,"LNCS, 12 pages",https://theory.utdallas.edu/AAIM2024/,Algorithmic Aspects in Information and Management
+RuleML+RR 2024,"Bucharest, Romania",1/7 June 2024,16-18 September 2024,19 July 2024,"LNCS, 15 pages long, 8 pages short",https://2024.declarativeai.net/events/ruleml-rr,International Joint Conference on Rules and Reasoning
+JAF 2024,"Passau, Germany",2 June 2024,9-11 September 2024,2 July 2024,3 pages,https://www.uni-passau.de/en/jaf,Journées sur les Arithmétiques Faibles
+iFM 2024,"Manchester, UK",3/10 June 2024,13-15 November 2024,5 August 2024,"LNCS, 16 pages regular, 6 pages short",https://ifm2024.cs.manchester.ac.uk/,Integrated Formal Methods
+ALGOWIN 2024,"Egham, United Kingdom",7 June 2024,5-6 September 2024,1 August 2024,"LNCS,12 pages excluding referenes;
 	      part ofALGO",https://algo-conference.org/2024/algowin/,Algorithmic of Wireless Networks
-SEFM,"Aveiro, Portugal",7/14 June 2024,4-8 November 2024,15 August 2024,"LNCS, 16 pages excludinge references regular, 8 pages tool",https://sefm-conference.github.io/2024/,Software Engineering and Formal Methods
-ICTCS,"Torino, Italy",9 June 2024,11-13 September 2024,14 July 2024,"LNCS, 12 pages regular, 5 pages communications, both excluding references",https://ictcs2024.di.unito.it/,Italian Conference on Theoretical Computer Science
-ICTAC,"Bangkok, Thailand",14/21 June 2024,25-29 November 2024,1 September 2024,"LNCS, 16 pages excluding references full, 8 pages short and tool",https://ictac2024.cs.ait.ac.th/,International Colloquium on Theoretical Aspects of Computing
-MLCS,"Vilnius, Lithuania",15 June 2024,9-13 September 2024,15 July 2024,"LNCS, 16 pages regular, 6 pages short",https://mlcs.lasige.di.fc.ul.pt/,Machine Learning for Cybersecurity
-WISE,"Doha, Qatar",20/30 June 2024,2-5 December 2024,30 August 2024,"LNCS,double-blind, 15 pages",https://wise2024-qatar.com/,Web Information Systems Engineering
-TIME,"Montpellier, France",21 June 2024,28-30 October 2024,2 August 2024,"LIPIcs,
+SEFM 2024,"Aveiro, Portugal",7/14 June 2024,4-8 November 2024,15 August 2024,"LNCS, 16 pages excludinge references regular, 8 pages tool",https://sefm-conference.github.io/2024/,Software Engineering and Formal Methods
+ICTCS 2024,"Torino, Italy",9 June 2024,11-13 September 2024,14 July 2024,"LNCS, 12 pages regular, 5 pages communications, both excluding references",https://ictcs2024.di.unito.it/,Italian Conference on Theoretical Computer Science
+TAP 2024,"Milan, Italy",12/14 June 2024,9–10 September 2024,5 July 2024,"LNCS, 16 pages regular + tools + case studies, 6 pages short, all excluding references;
+	      co-located withFM",https://tapconference.github.io/2024/,Tests and Proofs
+ICTAC 2024,"Bangkok, Thailand",14/21 June 2024,25-29 November 2024,1 September 2024,"LNCS, 16 pages excluding references full, 8 pages short and tool",https://ictac2024.cs.ait.ac.th/,International Colloquium on Theoretical Aspects of Computing
+MLCS 2024,"Vilnius, Lithuania",15 June 2024,9-13 September 2024,15 July 2024,"LNCS, 16 pages regular, 6 pages short",https://mlcs.lasige.di.fc.ul.pt/,Machine Learning for Cybersecurity
+WISE 2024,"Doha, Qatar",20/30 June 2024,2-5 December 2024,30 August 2024,"LNCS,double-blind, 15 pages",https://wise2024-qatar.com/,Web Information Systems Engineering
+TIME 2024,"Montpellier, France",21 June 2024,28-30 October 2024,2 August 2024,"LIPIcs,
 	      12 pages excluding references + 5 pages appendix",https://www.lirmm.fr/time2024/,Temporal Representation and Reasoning
-LPNMR,"Dallas, Texas, USA",21/28 June 2024,11-14 October 2024,28 July 2024,"LNCS, 13 pages long, 6 pages short",https://lpnmr2024.demacs.unical.it/,Logic Programming and Non-Monotonic Reasoning
-IPEC,"Egham, United Kingdom",26/30 June 2024,4-6 September 2024,5 August 2024,"LIPIcs,
+LPNMR 2024,"Dallas, Texas, USA",21/28 June 2024,11-14 October 2024,28 July 2024,"LNCS, 13 pages long, 6 pages short",https://lpnmr2024.demacs.unical.it/,Logic Programming and Non-Monotonic Reasoning
+IPEC 2024,"Egham, United Kingdom",26/30 June 2024,4-6 September 2024,5 August 2024,"LIPIcs,
 	      no page limit, but only first 12 pages read;
 	      part ofALGO",https://algo-conference.org/2024/ipec/,International Symposium on Parameterized and Exact Computation
-ISAAC,"Sydney, Australia",28 June 2024,8-12 December 2024,2 September 2024,"LIPIcs,double-blind, 12 pages excluding references",https://sites.google.com/view/isaac2024/,International Symposium on Algorithms and Computation
-FedCSIS,"Belgrade, Serbia",28 May 2024,8-11 September 2024,18 June 2024,"own format,
+ISAAC 2024,"Sydney, Australia",28 June 2024,8-12 December 2024,2 September 2024,"LIPIcs,double-blind, 12 pages excluding references",https://sites.google.com/view/isaac2024/,International Symposium on Algorithms and Computation
+FedCSIS 2024,"Belgrade, Serbia",28 May 2024,8-11 September 2024,18 June 2024,"own format,
 	      12 pages full, 6 pages short, 8 pages communication",https://2024.fedcsis.org/,Federated Conference on Computer Science and Information Systems
-ATMOS,"Egham, United Kingdom",30 June 2024,5-6 September 2024,31 July 2024,"OASIcs,
+ATMOS 2024,"Egham, United Kingdom",30 June 2024,5-6 September 2024,31 July 2024,"OASIcs,
 	      12 pages excluding references regular, 6 pages short;
 	      part ofALGO",https://algo-conference.org/2024/atmos/,"Algorithmic Approaches for Transportation Modelling, Optimization, and Systems"
-ALGOCLOUD,"Egham, United Kingdom",1 July 2024,2-3 September 2024,31 July 2024,"LNCS, 12 pages excluding references regular, 8 pages short, 10 pages survey;
+ALGOCLOUD 2024,"Egham, United Kingdom",1 July 2024,2-3 September 2024,31 July 2024,"LNCS, 12 pages excluding references regular, 8 pages short, 10 pages survey;
 	      part ofALGO",https://algo-conference.org/2024/algocloud/,Algorithms for Cloud-Based Systems
-ICTAI,"Herndon, Virginia, USA",1 July 2024,28-30 October 2024,18 August 2024,"IEEE Transactions,double-blind, 8 pages",https://ictai.computer.org/2024/,International Conference on Tools with Artificial Intelligence
-WAOA,"Egham, United Kingdom",3 July 2024,5-6 September 2024,31 July 2024,"LNCS,double-blind, 10 pages excluding references;
+ICTAI 2024,"Herndon, Virginia, USA",1 July 2024,28-30 October 2024,18 August 2024,"IEEE Transactions,double-blind, 8 pages",https://ictai.computer.org/2024/,International Conference on Tools with Artificial Intelligence
+WAOA 2024,"Egham, United Kingdom",3 July 2024,5-6 September 2024,31 July 2024,"LNCS,double-blind, 10 pages excluding references;
 	      part ofALGO",https://algo-conference.org/2024/waoa/,Workshop on Approximation and Online Algorithms
-FSTTCS,"Gandhinagar, Gujarat, India",5 July 2024,16-18 December 2024,16 September 2024,"LIPIcs,
+FSTTCS 2024,"Gandhinagar, Gujarat, India",5 July 2024,16-18 December 2024,16 September 2024,"LIPIcs,
 	      15 pages excluding references",https://www.fsttcs.org.in/2024/,Foundations of Software Technology and Theoretical Computer Science
-SODA ,"New Orleans, Lousiana, USA",5 July 2024,12-15 January 2025,6 September 2024early October 2024,"double-blind, no page limit, but only first 10 pages read",https://www.siam.org/conferences/cm/conference/soda25,Symposium on Discrete Algorithms
-CSCML,,6 or 7 July 2024,19-20 December 2024,13 August 2024,"LNCS, 12-15+ pages regular, 6-11 pages short",https://www.cscml.org/,"Cyber Security, Cryptology and Machine Learning"
-NMR,"Hanoi, Vietnam",7/12 July 2024,2-4 November 2024,1 September 2024,"CEUR,
+SODA  2025,"New Orleans, Lousiana, USA",5 July 2024,12-15 January 2025,6 September 2024early October 2024,"double-blind, no page limit, but only first 10 pages read",https://www.siam.org/conferences/cm/conference/soda25,Symposium on Discrete Algorithms
+CSCML 2024,,6 or 7 July 2024,19-20 December 2024,13 August 2024,"LNCS, 12-15+ pages regular, 6-11 pages short",https://www.cscml.org/,"Cyber Security, Cryptology and Machine Learning"
+NMR 2024,"Hanoi, Vietnam",7/12 July 2024,2-4 November 2024,1 September 2024,"CEUR,
 	      10 pages including references full, 3 pages excluding referencesextended abstracts;
 	      co-located withKR",https://nmr.krportal.org/2024/,Non-Monotonic Reasoning
-ICLP,"Dallas, Texas, USA",8 July 2024,11-17 October 2024,22 July 2024,"EPTCS,
+ICLP 2024,"Dallas, Texas, USA",8 July 2024,11-17 October 2024,22 July 2024,"EPTCS,
 	      7 pages short, 3 pages recently published, 3 pages system demonstrations, 3 pages birds of a feather",https://www.iclp24.utdallas.edu/,International Conference on Logic Programming
-POPL,"Denver, Colorado, USA",11 July 2024,19-25 January 2025,,"ACMart,double-blind,
+POPL 2025,"Denver, Colorado, USA",11 July 2024,19-25 January 2025,,"ACMart,double-blind,
 	      25 pages excluding references",https://conf.researchr.org/home/POPL-2025,Principles of Programming Languages
-VSTTE,"Prague, Czech Republic",18 July 2024,14-15 October 2024,29 August 2024,"LNCS, 16 pages long, 10 pages short, both excluding references;
+VSTTE 2024,"Prague, Czech Republic",18 July 2024,14-15 October 2024,29 August 2024,"LNCS, 16 pages long, 10 pages short, both excluding references;
 	      co-located withFMCAD",https://www.soundandcomplete.org/vstte2024.html,"Verified Software: Theories, Tools, and Experiments"
-CSL,"Amsterdam, The Netherlands",18/23 July 2024,10-14 February 2025,27 October 2024,"LIPIcs,double-blind, 15 pages excluding references",https://csl2025.github.io/,Computer Science Logic
-ICDCN,"Hyderabad, India",25 July 2024,4-7 January 2025,27 September 2024,"ACMart, 10 pages regular, 5 pages short",https://cse.iith.ac.in/icdcn-2025/,International Conference on Distributed Computing and Networking
-TERMGRAPH,post-proceedings,1 August 2024,7 April 2024,15 September 2024,"EPTCS, 16 pages post-proceedings",http://termgraph.org.uk/2024/,Computing with Terms and Graphs
+CSL 2025,"Amsterdam, The Netherlands",18/23 July 2024,10-14 February 2025,27 October 2024,"LIPIcs,double-blind, 15 pages excluding references",https://csl2025.github.io/,Computer Science Logic
+ICDCN 2025,"Hyderabad, India",25 July 2024,4-7 January 2025,27 September 2024,"ACMart, 10 pages regular, 5 pages short",https://cse.iith.ac.in/icdcn-2025/,International Conference on Distributed Computing and Networking
+TERMGRAPH 2024,post-proceedings,1 August 2024,7 April 2024,15 September 2024,"EPTCS, 16 pages post-proceedings",http://termgraph.org.uk/2024/,Computing with Terms and Graphs
 KDD,???,1/8 August 2024,,,,https://kdd2024.kdd.org/,Knowledge Discovery and Data Mining
 WADT,post-proceedings,16 September 2024,,25 November 2024,dates for post-proceedings,https://conf.researchr.org/home/wadt-2024,Workshop on Algebraic Development Techniques
-WALCOM,"Chengdu, China",22 September 2024,28 February - 2 March 2025,8 November 2024,"LNCS, 14 pages",https://tcsuestc.com/walcom2025,International Conference and Workshops on Algorithms and Computation
+WALCOM 2025,"Chengdu, China",22 September 2024,28 February - 2 March 2025,8 November 2024,"LNCS, 14 pages",https://tcsuestc.com/walcom2025,International Conference and Workshops on Algorithms and Computation
 Conference,"City, Country",Deadline,Date,Notification,Submission format and comments
