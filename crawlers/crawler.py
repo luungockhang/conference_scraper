@@ -74,10 +74,7 @@ def crawler():
             file_number+=1
             file_name = 'output' + str(file_number) + '.csv'
             file_path = os.path.join(folder,file_name)
-            
-while True:
+
+async def run():  
     crawler()
-    interval = random.randrange(5,10)
-    
-    print("crawled. next at {0}".format(interval))
-    time.sleep(interval)
+    print("lix.polytechnique.fr crawled")

@@ -30,7 +30,7 @@ def crawl_api():
     with open(file_path,'w',encoding='utf-8', newline='') as csvfile:
         writer = csv.writer(csvfile)
         table_data = []
-        table_data.append(['Title', 'Place', 'Deadline', 'Date', 'Web','Description'])
+        table_data.append(['Conference', 'City, Country', 'Deadline', 'Date', 'Website','Description'])
         for conference_org in content:
             title = conference_org['title']
             description = conference_org['description']
@@ -51,10 +51,7 @@ def crawl_api():
                 cell_data.append(description)
                 table_data.append(cell_data)
         writer.writerows(table_data)
-    
-while True:
+        
+async def run():
     crawl_api()
-    interval = random.randrange(5,10)
-    
-    print("crawled. next at {0}".format(interval))
-    time.sleep(interval)
+    print('ccfddl.github.io crawled')

@@ -2,8 +2,6 @@ Conference,"City, Country",Deadline,Date,Notification,Submission format and comm
 PPDP  2024,"Milan, Italy",15/22 May 2024,9-11 September 2024,3 July 2024,"ACM, 2 column,
 	      12 pages excluding references regular, 10 pages system descriptions,5 pages including references experience reports;
 	      co-located withFMandLOPSTR",https://ppdp2024.github.io/,Principles and Practice of Declarative Programming
-DSAA 2024,"San Diego, California, USA",20 May 2024,6-10 October 2024,24 July 2024,"IEEE,
-	      2 columns, 10 pages",https://dsaa2024.dsaa.co/,Data Science and Advanced Analytics
 PoS   2024,"Pune, India",20/25 May 202427 May 20245 June 2024,20 August 2024,23 June 2023,"CEURART, 1 column,
 	      15 pages long, 8 pages short, both excluding references,8 pages competition solver description;3rd deadline for SAT fast track, last deadline for competition solver descriptions;
 	      satellite event ofSAT",http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
@@ -59,6 +57,7 @@ CSCML 2024,,6 or 7 July 2024,19-20 December 2024,13 August 2024,"LNCS, 12-15+ pa
 NMR 2024,"Hanoi, Vietnam",7/12 July 2024,2-4 November 2024,1 September 2024,"CEUR,
 	      10 pages including references full, 3 pages excluding referencesextended abstracts;
 	      co-located withKR",https://nmr.krportal.org/2024/,Non-Monotonic Reasoning
+DSAA 2024,"San Diego, California, USA",6-10 October 2024,24 July 2024,21 August 2024,,,https://dsaa2024.dsaa.co/,Data Science and Advanced Analytics
 ICLP 2024,"Dallas, Texas, USA",8 July 2024,11-17 October 2024,22 July 2024,"EPTCS,
 	      7 pages short, 3 pages recently published, 3 pages system demonstrations, 3 pages birds of a feather",https://www.iclp24.utdallas.edu/,International Conference on Logic Programming
 POPL 2025,"Denver, Colorado, USA",11 July 2024,19-25 January 2025,,"ACMart,double-blind,

@@ -1,6 +1,5 @@
 Conference,"City, Country",Deadline,Date,Website,Description
 PPDP  2024,"Milan, Italy",15/22 May 2024,9-11 September 2024,https://ppdp2024.github.io/,Principles and Practice of Declarative Programming
-DSAA 2024,"San Diego, California, USA",20 May 2024,6-10 October 2024,https://dsaa2024.dsaa.co/,Data Science and Advanced Analytics
 PoS   2024,"Pune, India",20/25 May 202427 May 20245 June 2024,20 August 2024,http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
 SAGT 2024,"Amsterdam, The Netherlands",21 May 2024,3-6 September 2024,https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/,Symposium on Algorithmic Game Theory
 LOD 2024,"Castiglione della Pescaia, Italy",23 May 2024,22-25 September 2024,https://lod2024.icas.events/,"Machine Learning, Optimization, Data Science"
@@ -36,6 +35,7 @@ FSTTCS 2024,"Gandhinagar, Gujarat, India",5 July 2024,16-18 December 2024,https:
 SODA  2025,"New Orleans, Lousiana, USA",5 July 2024,12-15 January 2025,https://www.siam.org/conferences/cm/conference/soda25,Symposium on Discrete Algorithms
 CSCML 2024,,6 or 7 July 2024,19-20 December 2024,https://www.cscml.org/,"Cyber Security, Cryptology and Machine Learning"
 NMR 2024,"Hanoi, Vietnam",7/12 July 2024,2-4 November 2024,https://nmr.krportal.org/2024/,Non-Monotonic Reasoning
+DSAA 2024,"San Diego, California, USA",6-10 October 2024,24 July 2024,,https://dsaa2024.dsaa.co/
 ICLP 2024,"Dallas, Texas, USA",8 July 2024,11-17 October 2024,https://www.iclp24.utdallas.edu/,International Conference on Logic Programming
 POPL 2025,"Denver, Colorado, USA",11 July 2024,19-25 January 2025,https://conf.researchr.org/home/POPL-2025,Principles of Programming Languages
 VSTTE 2024,"Prague, Czech Republic",18 July 2024,14-15 October 2024,https://www.soundandcomplete.org/vstte2024.html,"Verified Software: Theories, Tools, and Experiments"
