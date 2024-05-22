@@ -3,22 +3,20 @@ Câu hỏi:
 - Cách lấy dữ liệu từ table <- solved, bằng beautifulsoup
 - Chạy code stack này như thế nào? Ví dụ như muốn chạy server web và trong lúc chạy web thì chạy cả python, thì mình cần wrapper chăng?
 
-
-
-
-
 - Cách vào trong link của table để lấy dữ liệu phụ. (optional)
 
 Dataflow: 
-App Python lấy HTML và lọc thông tin trong HTML đó. Cho hết vào một file csv theo format của nhóm sau khi lọc xong.
+App Python đọc URL và crawl theo định nghĩa của file crawler.py. 
+Đưa data vào file csv. Load file csv lên CSDL MySQL.
+Giao diện người dùng tương tác với CSDL này và lấy thông tin từ đó.
+Các chức năng của người dùng sẽ được thực hiện trên web client của người dùng.
 
+Cách chạy: Chạy file main.py
 
-Đổi branch:
-git checkout <tên branch>
+Note dev:
+    Đổi branch:
+    git checkout <tên branch>
 
 Thư viện phải cài:
     - BeautifulSoup - Trích dữ liệu HTML
     - Pandas - Xử lý CSV 
-
-Vấn đề:
-    - Mở file output.csv thì không thể chạy code (permission denied - không ghi đè file đang mở)
