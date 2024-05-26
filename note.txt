@@ -1,15 +1,19 @@
 Câu hỏi:
 - Cài đặt thư viện beautifulsoup, pandas. <- đã cài
 - Cách lấy dữ liệu từ table <- solved, bằng beautifulsoup
-- Chạy code stack này như thế nào? Ví dụ như muốn chạy server web và trong lúc chạy web thì chạy cả python, thì mình cần wrapper chăng?
+- Chạy code stack này như thế nào? <- chạy crawler và export dữ liệu vào csv, import các csv này vào CSDL. 
+<- Việc này xảy ra theo thứ tự sau:
+Phía server:
+1. Chạy main, main gọi crawler crawl một hoặc nhiều website cùng lúc 
+2. Crawler lưu dữ liệu vào csv.
+3. Main gọi CSDL import các csv do crawler tạo.
+4. Lặp lại từ 1, sau một khoản thời gian ngẫu nhiên từ A tới B (cấu hình trong code).
+
+Phía client:
+1. Người dùng truy cập vào website host trên server để tương tác với bảng từ CSDL.
+
 
 - Cách vào trong link của table để lấy dữ liệu phụ. (optional)
-
-Dataflow: 
-App Python đọc URL và crawl theo định nghĩa của file crawler.py. 
-Đưa data vào file csv. Load file csv lên CSDL MySQL.
-Giao diện người dùng tương tác với CSDL này và lấy thông tin từ đó.
-Các chức năng của người dùng sẽ được thực hiện trên web client của người dùng.
 
 Cách chạy: Chạy file main.py
 
@@ -17,6 +21,17 @@ Note dev:
     Đổi branch:
     git checkout <tên branch>
 
-Thư viện phải cài:
-    - BeautifulSoup - Trích dữ liệu HTML
-    - Pandas - Xử lý CSV 
+Thư viện phải cài để chạy source này: (pip install)
+    - beautifulsoup4 - BeautifulSoup4 Trích dữ liệu HTML
+    - pandas - Pandas: Xử lý CSV 
+    - pyyaml - Đọc API file YAML 
+    - sqlalchemy - Xử lý SQL
+    - mysql-connector-python - Connector dùng với MySQL (Cần cài MySQL)
+
+Tổ chức CSDL:
+    - HoiNghi: Title (Tên hội nghị), City,Country (nơi tổ chức (thành phố)), Deadline (Deadline đăng kí (String)), Date (Ngày tháng năm (String)), Website (Web hội nghị), Description (Tên dài)
+
+Giao diện client lấy thông tin CSDL:
+    - crawler và CSDL là phía server
+    - server xuất bảng trong CSDL lên web client
+    - viết API cho CSDL để người dùng lấy thông tin từ giao diện người dùng (trên website phía người dùng)
