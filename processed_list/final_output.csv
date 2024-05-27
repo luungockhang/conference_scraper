@@ -1,13 +1,11 @@
 Conference,"City, Country",Deadline,Date,Website,Description
-PPDP  2024,"Milan, Italy",15/22 May 2024,9-11 September 2024,https://ppdp2024.github.io/,Principles and Practice of Declarative Programming
-PoS   2024,"Pune, India",20/25 May 202427 May 20245 June 2024,20 August 2024,http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
-SAGT 2024,"Amsterdam, The Netherlands",21 May 2024,3-6 September 2024,https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/,Symposium on Algorithmic Game Theory
-LOD 2024,"Castiglione della Pescaia, Italy",23 May 2024,22-25 September 2024,https://lod2024.icas.events/,"Machine Learning, Optimization, Data Science"
+SAGT 2024,"Amsterdam, The Netherlands",22/26 May 2024,3-6 September 2024,https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/,Symposium on Algorithmic Game Theory
 FACS 2024,"Milan, Italy",23/30 May 2024,9-10 September 2024,https://facs-conference.github.io/2024/,Formal Aspects of Component Software
-APLAS 2024,"Kyoto, Japan",24 May 2024,22-25 October 2024,https://conf.researchr.org/home/aplas-2024,Asian Symposium on Programming Languages and Systems
 ADT 2024,"Piscataway, New Jersey, USA",24/31 May 2024,14-16 October 2024,https://preflib.github.io/adt2024/,Algorithmic Decision Theory
 WABI 2024,"Egham, United Kingdom",26 May 2024,2-4 September 2024,https://algo-conference.org/2024/wabi/,Workshop on Algorithms in Bioinformatics
+PoS   2024,"Pune, India",27 May 20245 June 2024,20 August 2024,http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
 RP 2024,"Vienna, Austria",27/30 May 2024,25-27 September 2024,https://easychair.org/smart-program/RP24/,Reachability Problems
+APLAS 2024,"Kyoto, Japan",31 May 2024,22-25 October 2024,https://conf.researchr.org/home/aplas-2024,Asian Symposium on Programming Languages and Systems
 GD  2024,"Vienna, Austria",31 May / 7 June 2024,18-20 September 2024,https://graphdrawing.github.io/gd2024//,Graph Drawing
 LSFA 2024,"Goiânia, Brazil",31 May / 7 June 2024,18-20 September 2024,https://sites.google.com/ufg.br/lsfa2024,Logical and Semantic Frameworks with Applications
 IOTSMS 2024,"Malmö, Sweden",1 June 2024,2-5 September 2024,https://emergingtechnet.org/IOTSMS2024/,"Internet of Things: Systems, Management and Security"
@@ -21,6 +19,7 @@ ICTCS 2024,"Torino, Italy",9 June 2024,11-13 September 2024,https://ictcs2024.di
 TAP 2024,"Milan, Italy",12/14 June 2024,9–10 September 2024,https://tapconference.github.io/2024/,Tests and Proofs
 ICTAC 2024,"Bangkok, Thailand",14/21 June 2024,25-29 November 2024,https://ictac2024.cs.ait.ac.th/,International Colloquium on Theoretical Aspects of Computing
 MLCS 2024,"Vilnius, Lithuania",15 June 2024,9-13 September 2024,https://mlcs.lasige.di.fc.ul.pt/,Machine Learning for Cybersecurity
+LAP 2024,"Dubrovnik, Croatia",15 June 2024,23-27 September 2024,https://lap.math.hr/LAP2024/,Logic and Applications
 WISE 2024,"Doha, Qatar",20/30 June 2024,2-5 December 2024,https://wise2024-qatar.com/,Web Information Systems Engineering
 TIME 2024,"Montpellier, France",21 June 2024,28-30 October 2024,https://www.lirmm.fr/time2024/,Temporal Representation and Reasoning
 LPNMR 2024,"Dallas, Texas, USA",21/28 June 2024,11-14 October 2024,https://lpnmr2024.demacs.unical.it/,Logic Programming and Non-Monotonic Reasoning
@@ -35,20 +34,20 @@ FSTTCS 2024,"Gandhinagar, Gujarat, India",5 July 2024,16-18 December 2024,https:
 SODA  2025,"New Orleans, Lousiana, USA",5 July 2024,12-15 January 2025,https://www.siam.org/conferences/cm/conference/soda25,Symposium on Discrete Algorithms
 CSCML 2024,,6 or 7 July 2024,19-20 December 2024,https://www.cscml.org/,"Cyber Security, Cryptology and Machine Learning"
 NMR 2024,"Hanoi, Vietnam",7/12 July 2024,2-4 November 2024,https://nmr.krportal.org/2024/,Non-Monotonic Reasoning
-DSAA 2024,"San Diego, California, USA",6-10 October 2024,24 July 2024,,https://dsaa2024.dsaa.co/
 ICLP 2024,"Dallas, Texas, USA",8 July 2024,11-17 October 2024,https://www.iclp24.utdallas.edu/,International Conference on Logic Programming
 POPL 2025,"Denver, Colorado, USA",11 July 2024,19-25 January 2025,https://conf.researchr.org/home/POPL-2025,Principles of Programming Languages
 VSTTE 2024,"Prague, Czech Republic",18 July 2024,14-15 October 2024,https://www.soundandcomplete.org/vstte2024.html,"Verified Software: Theories, Tools, and Experiments"
+ALENEX 2025,"New Orleans, Lousiana, USA",18 July 2024,12-13 January 2025,https://www.siam.org/conferences/cm/conference/alenex25,Algorithm Engineering and Experiments
 CSL 2025,"Amsterdam, The Netherlands",18/23 July 2024,10-14 February 2025,https://csl2025.github.io/,Computer Science Logic
 ICDCN 2025,"Hyderabad, India",25 July 2024,4-7 January 2025,https://cse.iith.ac.in/icdcn-2025/,International Conference on Distributed Computing and Networking
 TERMGRAPH 2024,post-proceedings,1 August 2024,7 April 2024,http://termgraph.org.uk/2024/,Computing with Terms and Graphs
 KDD,???,1/8 August 2024,,https://kdd2024.kdd.org/,Knowledge Discovery and Data Mining
+SOSA 2025,"New Orleans, Lousiana, USA",5/8 August 2024,13-14 January 2025,https://www.siam.org/conferences/cm/conference/sosa25,Symposium on Simplicity in Algorithms
 WADT,post-proceedings,16 September 2024,,https://conf.researchr.org/home/wadt-2024,Workshop on Algebraic Development Techniques
 WALCOM 2025,"Chengdu, China",22 September 2024,28 February - 2 March 2025,https://tcsuestc.com/walcom2025,International Conference and Workshops on Algorithms and Computation
-ISCO,"Tenerife, Canary Islands, Spain",,22-24 May 2024,https://eventos.ull.es/isco-2024,International Symposium on Combinatorial Optimization
-EUROCRYPT  2024,"Zurich, Switzerland",,26-30 May 2024,https://eurocrypt.iacr.org/2024/,Theory and Applications of Cryptographic Techniques
-LPAR 2024,Mauritius,,26-31 May 2024,https://easychair.org/smart-program/LPAR2024/,"Logic for Programming, Artificial Intelligence and Reasoning"
-SIROCCO 2024,"Vietri sul Mare, Salerno, Italy",,27-29 May 2024,http://sirocco2024.di.unisa.it/,Structural Information and Communication Complexity
+EUROCRYPT,"Zurich, Switzerland",,26-30 May 2024,https://eurocrypt.iacr.org/2024/,Theory and Applications of Cryptographic Techniques
+LPAR,Mauritius,,26-31 May 2024,https://easychair.org/smart-program/LPAR2024/,"Logic for Programming, Artificial Intelligence and Reasoning"
+SIROCCO,"Vietri sul Mare, Salerno, Italy",,27-29 May 2024,http://sirocco2024.di.unisa.it/,Structural Information and Communication Complexity
 CPAIOR 2024,"Uppsala, Sweden",,28-31 May 2024,https://sites.google.com/view/cpaior2024,"Integration of Constraint Programming, Artificial Intelligence, and Operations Research"
 ICAPS 2024,"Banf, Alberta, Canada",,1-5 June 2024,https://icaps24.icaps-conference.org/,International Conference on Automated Planning and Scheduling
 HALG 2024,"Warsaw, Poland",,3-5 June 2024,https://halg2024.ideas-ncbr.pl/,Highlights of Algorithms
@@ -119,6 +118,7 @@ CRYPTO  2024,"Santa Barbara, California, USA",,18-22 August 2024,https://crypto
 SmartData 2024,"Copenhagen, Denmark",,19-22 August 2024,https://ieee-cybermatics.org/2024/smartdata/,Smart Data
 RAMiCS 2024,"Prague, Czech Republic",,19-23 August 2024,https://ramics-conf.github.io/2024/,Relational and Algebraic Methods in Computer Science
 AiML 2024,"Prague, Czech Republic",,19-23 August 2024,https://www.cs.cas.cz/aiml2024/,Advances in Modal Logic
+PoS 2024,"Pune, India",,20 August 2024,http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
 SAT 2024,"Pune, India",,21-24 August 2024,http://satisfiability.org/SAT24/,Theory and Applications of Satisfiability Testing
 COCOON 2024,"Shanghai, China",,23-25 August 2024,https://anl.sjtu.edu.cn/cocoon2024/,Computing and Combinatorics Conference
 KDD 2024,"Barcelona, Spain",,25-29 August 2024,https://kdd2024.kdd.org/,Knowledge Discovery and Data Mining
@@ -138,6 +138,7 @@ NCL 2024,"Łódż, Poland",,5-8 September 2024,https://easychair.org/smart-progr
 MATCH-UP 2024,"Oxford, United Kingdom",,9-11 September 2024,https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/,Matching Under Preferences
 FMICS 2024,"Milan, Italy",,9-11 September 2024,https://fmics.inria.fr/2024/,Formal Methods for Industrial Critical Systems
 LOPSTR 2024,"Milan, Italy",,9-11 September 2024,https://lopstr.github.io/2024/,Logic-Based Program Synthesis and Transformation
+PPDP 2024,"Milan, Italy",,9-11 September 2024,https://ppdp2024.github.io/,Principles and Practice of Declarative Programming
 FM 2024,"Milan, Italy",,9-13 September 2024,https://www.fm24.polimi.it/,Formal Methods
 CONFEST 2024,"Calgary, Canada",,9-13 September 2024,https://confest2024.github.io/,CONCUR & QEST & FORMATS
 CONCUR 2024,"Calgary, Canada",,9-13 September 2024,https://confest2024.github.io/,Concurrency Theory
@@ -146,21 +147,21 @@ FORMATS 2024,"Calgary, Canada",,9-13 September 2024,https://www.qest-formats.org
 ITP 2024,"Tbilisi, Georgia",,9-14 September 2024,https://www.viam.science.tsu.ge/itp2024/,Interactive Theorem Proving
 SCN 2024,"Amalfi (SA), Italy",,11-13 September 2024,http://scn.unisa.it,Security and Cryptography for Networks
 SAFECOMP 2024,"Florence, Italy",,17-20 September 2024,https://www.safecomp2024.unifi.it/,"Computer Safety, Reliability and Security"
+LOD 2024,"Castiglione della Pescaia, Italy",,22-25 September 2024,https://lod2024.icas.events/,"Machine Learning, Optimization, Data Science"
 KI 2024,"Würzburg, Germany",,25-27 September 2024,https://www.informatik.uni-wuerzburg.de/ki24/,German Conference on Artificial Intelligence
+DSAA 2024,"San Diego, California, USA",,6-10 October 2024,https://dsaa2024.dsaa.co/,Data Science and Advanced Analytics
 ICLP  2024,"Dallas, Texas, USA",,11-17 October 2024,https://www.iclp24.utdallas.edu/,International Conference on Logic Programming
 FMCAD 2024,"Prague, Czech Republic",,14-18 October 2024,https://fmcad.org/FMCAD24/,Formal Methods in Computer-Aided Design
 PACT 2024,"Long Beach, California, USA",,13-16 October 2024,https://pact2024.github.io/,Parallel Architectures and Compilation Techniques
 CCS  2024,"Salt Lake City, Utah, USA",,14-18 October 2024,https://www.sigsac.org/ccs/CCS2024/,Computer and Communication Security
 ECAI 2024,"Santiago de Compostela, Spain",,19-24 October 2024,https://www.ecai2024.eu/,European Conference on Artificial Intelligence
 SAS 2024,"Pasadena, California, USA",,20-22 October 2024,https://2024.splashcon.org/home/sas-2024,Static Analysis Symposium
+SPLASH 2024,"Pasadena, California, USA",,20-25 October 2024,https://2024.splashcon.org/,"Systems, Programming, Languages, and Applications: Software for Humanity"
 ATVA 2024,"Kyoto, Japan",,21-24 October 2024,https://atva-conference.org/2024/,Automated Technology for Verification and Analysis
 FOCS 2024,"Chicago, Illinois, USA",,27-30 October 2024,https://focs.computer.org/2024/,Foundations of Computer Science
 DISC 2024,"Madrid, Spain",,28 October - 1 November 2024,https://www.disc-conference.org/wp/disc2024/,Distributed Computing
 KR 2024,"Hanoi, Vietnam",,2-8 November 2024,https://kr.org/KR2024/,Principles of Knowledge Representation and Reasoning
 SYNASC 2024,"Timişoara, Romania",,16 September 2024,https://synasc.ro/2024/,Symbolic and Numeric Algorithms for Scientific Computing
-SPLASH 2024,"Pasadena, California, USA",,20 October 2024,https://2024.splashcon.org/,"Systems, Programming, Languages, and Applications: Software for Humanity"
-ALENEX 2025,"New Orleans, Lousiana, USA",,12 January 2025,https://www.siam.org/conferences/cm/conference/alenex25,Algorithm Engineering and Experiments
-SOSA 2025,"New Orleans, Lousiana, USA",,13 January 2025,https://www.siam.org/conferences/cm/conference/sosa25,Symposium on Simplicity in Algorithms
 SOFSEM 2025,"Bratislava, Slovakia",,20 January 2025,https://www.sofsem.cz/,Current Trends in Theory and Practice of Computer Science
 STACS 2025,"Jena, Germany",,4 March 2025,https://stacs2025.de/,Symposium on Theoretical Aspects of Computer Science
 ICALP 2025,"Aarhus, Denmark",,7 July 2025,no-webpage-yet.html,"International Colloquium on Automata, Languages and Programming"
@@ -180,8 +181,8 @@ IPDPS 2024,"San Francisco, California USA","Deadline: 2023-10-05 23:59:59
 ","May 27-31, 2024",https://www.ipdps.org/,IEEE International Parallel and Distributed Processing Symposium
 VEE 2022,Virtual,"Deadline: 2021-12-03 23:59:59
 ","Feb 28-March 4, 2022",https://conf.researchr.org/home/vee-2022,Virtual Execution Environments
-IISWC 2024,Vancouver BC Canada,"Deadline: 2024-05-29 00:00:00
-Comment: Submissions Due
+IISWC 2024,Vancouver BC Canada,"Deadline: 2024-06-03 00:00:00
+Comment: Submissions Due: 2024-06-03
 ","September 15-17, 2024",https://iiswc.org/iiswc2024/,IEEE International Symposium on Workload Characterization
 ICPP 2021,"Chicago, USA","Deadline: 2021-04-16 23:59:59
 ","August 9-12, 2021",https://oaciss.uoregon.edu/icpp21/,International Conference on Parallel Processing
@@ -777,6 +778,8 @@ AAAI 2023,"Washington, DC, USA","Deadline: 2022-08-15 23:59:59
 ","February 7 - February 14, 2023",https://www.aaai.org/Conferences/AAAI-23/,AAAI Conference on Artificial Intelligence
 AAAI 2024,"Vancouver, British Columbia, Canada","Deadline: 2023-08-15 23:59:59
 ","February 20 - February 27, 2024",https://www.aaai.org/aaai-conference/,AAAI Conference on Artificial Intelligence
+AAAI 2025,"PHILADELPHIA, PENNSYLVANIA, USA","Deadline: 2024-08-15 23:59:59
+","February 25 - March 4, 2025",https://aaai.org/aaai-conference/save-the-date-aaai-25/,AAAI Conference on Artificial Intelligence
 ICONIP 2023,"Changsha, China","Deadline: 2023-06-30 11:59:00
 ","Nov 20-23, 2023",http://iconip2023.org/,International Conference on Neural Information Processing
 ICONIP 2024,"Auckland, New Zealand","Deadline: 2024-05-31 23:59:59
@@ -1378,11 +1381,11 @@ Comment: Second Paper submission deadline
 Deadline: 2023-12-06 23:59:59
 Comment: Third Paper submission deadline
 ","MAY 20-23, 2024",https://www.ieee-security.org/TC/SP2024/,IEEE Symposium on Security and Privacy
-S&P 2025,TBD,"Deadline: 2024-06-06 23:59:59
+S&P 2025,"SAN FRANCISCO, CA","Deadline: 2024-06-06 23:59:59
 Comment: First Paper submission deadline
 Deadline: 2024-11-14 23:59:59
 Comment: Second Paper submission deadline
-",TBD,https://www.ieee-security.org/TC/SP2025/,IEEE Symposium on Security and Privacy
+","MAY 12-15, 2025",https://www.ieee-security.org/TC/SP2025/,IEEE Symposium on Security and Privacy
 ICICS 2021,"Chongqing, China","Deadline: 2021-05-22 23:59:59
 Comment: Paper Submission deadline
 ","September 17-19, 2021",https://icics.cn/,International Conference on Information and Communications Security

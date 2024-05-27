@@ -1,7 +1,4 @@
 Conference,"City, Country",Date,Notification,Final version,Early registration,Remarks and other indications,Website,Description
-EUROCRYPT  2024,"Zurich, Switzerland",26-30 May 2024,8 December 202331 January 2024,,26 April 2024,,https://eurocrypt.iacr.org/2024/,Theory and Applications of Cryptographic Techniques
-LPAR 2024,Mauritius,26-31 May 2024,1 April 2024,5 April 2024,16 May 2024,,https://easychair.org/smart-program/LPAR2024/,"Logic for Programming, Artificial Intelligence and Reasoning"
-SIROCCO 2024,"Vietri sul Mare, Salerno, Italy",27-29 May 2024,28 January 2024,,31 March 2024,,http://sirocco2024.di.unisa.it/,Structural Information and Communication Complexity
 CPAIOR 2024,"Uppsala, Sweden",28-31 May 2024,1 February 2024,,15 April 2024,,https://sites.google.com/view/cpaior2024,"Integration of Constraint Programming, Artificial Intelligence, and Operations Research"
 ICAPS 2024,"Banf, Alberta, Canada",1-5 June 2024,12 February 2024,,31 March 2024,,https://icaps24.icaps-conference.org/,International Conference on Automated Planning and Scheduling
 HALG 2024,"Warsaw, Poland",3-5 June 2024,,25 May 2024,1 May 2024,,https://halg2024.ideas-ncbr.pl/,Highlights of Algorithms
@@ -73,6 +70,7 @@ CRYPTO  2024,"Santa Barbara, California, USA",18-22 August 2024,7 April 20243 M
 SmartData 2024,"Copenhagen, Denmark",19-22 August 2024,1 June 2024,20 June 2024,20 June 2024,,https://ieee-cybermatics.org/2024/smartdata/,Smart Data
 RAMiCS 2024,"Prague, Czech Republic",19-23 August 2024,21 May 2024,22 June 2024,,co-located withAiML,https://ramics-conf.github.io/2024/,Relational and Algebraic Methods in Computer Science
 AiML 2024,"Prague, Czech Republic",19-23 August 2024,20 May 2024,21 June 2024,,co-located withRAMiCS,https://www.cs.cas.cz/aiml2024/,Advances in Modal Logic
+PoS 2024,"Pune, India",20 August 2024,23 June 2023,14 July 2024,,satellite event ofSAT,http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
 SAT 2024,"Pune, India",21-24 August 2024,22 May 2024,22 June 2024,,preceded 18-20 August 2024 by Indian SAT+SMT School,http://satisfiability.org/SAT24/,Theory and Applications of Satisfiability Testing
 COCOON 2024,"Shanghai, China",23-25 August 2024,25 May 2024,10 June 2024,,,https://anl.sjtu.edu.cn/cocoon2024/,Computing and Combinatorics Conference
 KDD 2024,"Barcelona, Spain",25-29 August 2024,16 May 2024,4 June 2024,10 July 2024,,https://kdd2024.kdd.org/,Knowledge Discovery and Data Mining
@@ -92,6 +90,7 @@ NCL 2024,"Łódż, Poland",5-8 September 2024,15 June 2024,10 July 2024,,,https:
 MATCH-UP 2024,"Oxford, United Kingdom",9-11 September 2024,1 July 2024,,15 July 2024,,https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/,Matching Under Preferences
 FMICS 2024,"Milan, Italy",9-11 September 2024,10 June 2024,23 June 2024,,co-located withFM,https://fmics.inria.fr/2024/,Formal Methods for Industrial Critical Systems
 LOPSTR 2024,"Milan, Italy",9-11 September 2024,26 June 2024,17 July 2024,,co-located withFMandPPDP,https://lopstr.github.io/2024/,Logic-Based Program Synthesis and Transformation
+PPDP 2024,"Milan, Italy",9-11 September 2024,5 July 2024,24 July 2024,,co-located withFMandLOPSTR,https://ppdp2024.github.io/,Principles and Practice of Declarative Programming
 FM 2024,"Milan, Italy",9-13 September 2024,10 June 2024,1 July 2024,,,https://www.fm24.polimi.it/,Formal Methods
 CONFEST 2024,"Calgary, Canada",9-13 September 2024,,,,"federated conference includingCONCUR,QEST,
 	      andFORMATS",https://confest2024.github.io/,CONCUR & QEST & FORMATS
@@ -101,13 +100,16 @@ FORMATS 2024,"Calgary, Canada",9-13 September 2024,31 May 2024,17 June 2024,,22 
 ITP 2024,"Tbilisi, Georgia",9-14 September 2024,20 May 2024,10 June 2024,,,https://www.viam.science.tsu.ge/itp2024/,Interactive Theorem Proving
 SCN 2024,"Amalfi (SA), Italy",11-13 September 2024,2 July 2024,17 July 2024,31 July 2024,revisions possible until 9 May 2024,http://scn.unisa.it,Security and Cryptography for Networks
 SAFECOMP 2024,"Florence, Italy",17-20 September 2024,21 April 2024,1 June 2024,,,https://www.safecomp2024.unifi.it/,"Computer Safety, Reliability and Security"
+LOD 2024,"Castiglione della Pescaia, Italy",22-25 September 2024,23 June 2024,23 July 202423,23 July 2024,early registration obligatory for authors,https://lod2024.icas.events/,"Machine Learning, Optimization, Data Science"
 KI 2024,"Würzburg, Germany",25-27 September 2024,15 June 2024,10 July 2024,,,https://www.informatik.uni-wuerzburg.de/ki24/,German Conference on Artificial Intelligence
+DSAA 2024,"San Diego, California, USA",6-10 October 2024,24 July 2024,21 August 2024,,,https://dsaa2024.dsaa.co/,Data Science and Advanced Analytics
 ICLP  2024,"Dallas, Texas, USA",11-17 October 2024,19 June 202422 July 2024,5 August 2024,,,https://www.iclp24.utdallas.edu/,International Conference on Logic Programming
 FMCAD 2024,"Prague, Czech Republic",14-18 October 2024,8 July 2024,August 2024,20 August 2024,,https://fmcad.org/FMCAD24/,Formal Methods in Computer-Aided Design
 PACT 2024,"Long Beach, California, USA",13-16 October 2024,1 July 2024,10 August 2024,,,https://pact2024.github.io/,Parallel Architectures and Compilation Techniques
 CCS  2024,"Salt Lake City, Utah, USA",14-18 October 2024,29 May 20244 July 2024,,12 September 2024,,https://www.sigsac.org/ccs/CCS2024/,Computer and Communication Security
 ECAI 2024,"Santiago de Compostela, Spain",19-24 October 2024,4 July 2024,,,,https://www.ecai2024.eu/,European Conference on Artificial Intelligence
 SAS 2024,"Pasadena, California, USA",20-22 October 2024,16 July 2024,12 August 2024,,,https://2024.splashcon.org/home/sas-2024,Static Analysis Symposium
+SPLASH 2024,"Pasadena, California, USA",20-25 October 2024,,,,co-located withSAS,https://2024.splashcon.org/,"Systems, Programming, Languages, and Applications: Software for Humanity"
 ATVA 2024,"Kyoto, Japan",21-24 October 2024,26 June 2024,22 August 2024,,,https://atva-conference.org/2024/,Automated Technology for Verification and Analysis
 FOCS 2024,"Chicago, Illinois, USA",27-30 October 2024,4 July 2024,26 August 2024,15 August 2024,,https://focs.computer.org/2024/,Foundations of Computer Science
 DISC 2024,"Madrid, Spain",28 October - 1 November 2024,2 August 2024,22 August 2024,,workshops: 28 October & 1 November; main conference: 29-31 October 2024,https://www.disc-conference.org/wp/disc2024/,Distributed Computing

@@ -11,20 +11,20 @@ import random
 import os
 import re
 
+url = "https://www.lix.polytechnique.fr/~hermann/conf.php"
+folder = 'conference_list_site/lix.polytechnique.fr'
+
 def crawler():
     # load website
-    url = "https://www.lix.polytechnique.fr/~hermann/conf.php"
     res = requests.get(url)
     doc = BeautifulSoup(res.text, "html.parser")
     tables = doc.find_all('table')
     
     # data goes to this folder
     file_number = 1
-    folder = 'conference_list_site/lix.polytechnique.fr'
     if not os.path.exists(folder):
         os.makedirs(folder)
-    file_name = 'output' + str(file_number) + '.csv'
-    file_path = os.path.join(folder,file_name)
+    file_path = generate_file_name(file_number)
     
     # Write data to CSV. Each table = 1  CSV.
     for table in tables:
@@ -72,8 +72,14 @@ def crawler():
             del table_data[-1] # Delete the final row (which is another header)
             writer.writerows(table_data)
             file_number+=1
-            file_name = 'output' + str(file_number) + '.csv'
-            file_path = os.path.join(folder,file_name)
+            # file_name = 'output' + str(file_number) + '.csv'
+            # file_path = os.path.join(folder,file_name)
+            file_path = generate_file_name(file_number)
+            
+def generate_file_name(file_number):
+    file_name = 'output' + str(file_number) + '.csv'
+    file_path = os.path.join(folder,file_name)
+    return file_path
 
 async def run():  
     crawler()

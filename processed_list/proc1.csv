@@ -1,13 +1,11 @@
 Conference,"City, Country",Deadline,Date,Website,Description
-PPDP  2024,"Milan, Italy",15/22 May 2024,9-11 September 2024,https://ppdp2024.github.io/,Principles and Practice of Declarative Programming
-PoS   2024,"Pune, India",20/25 May 202427 May 20245 June 2024,20 August 2024,http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
-SAGT 2024,"Amsterdam, The Netherlands",21 May 2024,3-6 September 2024,https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/,Symposium on Algorithmic Game Theory
-LOD 2024,"Castiglione della Pescaia, Italy",23 May 2024,22-25 September 2024,https://lod2024.icas.events/,"Machine Learning, Optimization, Data Science"
+SAGT 2024,"Amsterdam, The Netherlands",22/26 May 2024,3-6 September 2024,https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/,Symposium on Algorithmic Game Theory
 FACS 2024,"Milan, Italy",23/30 May 2024,9-10 September 2024,https://facs-conference.github.io/2024/,Formal Aspects of Component Software
-APLAS 2024,"Kyoto, Japan",24 May 2024,22-25 October 2024,https://conf.researchr.org/home/aplas-2024,Asian Symposium on Programming Languages and Systems
 ADT 2024,"Piscataway, New Jersey, USA",24/31 May 2024,14-16 October 2024,https://preflib.github.io/adt2024/,Algorithmic Decision Theory
 WABI 2024,"Egham, United Kingdom",26 May 2024,2-4 September 2024,https://algo-conference.org/2024/wabi/,Workshop on Algorithms in Bioinformatics
+PoS   2024,"Pune, India",27 May 20245 June 2024,20 August 2024,http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
 RP 2024,"Vienna, Austria",27/30 May 2024,25-27 September 2024,https://easychair.org/smart-program/RP24/,Reachability Problems
+APLAS 2024,"Kyoto, Japan",31 May 2024,22-25 October 2024,https://conf.researchr.org/home/aplas-2024,Asian Symposium on Programming Languages and Systems
 GD  2024,"Vienna, Austria",31 May / 7 June 2024,18-20 September 2024,https://graphdrawing.github.io/gd2024//,Graph Drawing
 LSFA 2024,"Goiânia, Brazil",31 May / 7 June 2024,18-20 September 2024,https://sites.google.com/ufg.br/lsfa2024,Logical and Semantic Frameworks with Applications
 IOTSMS 2024,"Malmö, Sweden",1 June 2024,2-5 September 2024,https://emergingtechnet.org/IOTSMS2024/,"Internet of Things: Systems, Management and Security"
@@ -21,6 +19,7 @@ ICTCS 2024,"Torino, Italy",9 June 2024,11-13 September 2024,https://ictcs2024.di
 TAP 2024,"Milan, Italy",12/14 June 2024,9–10 September 2024,https://tapconference.github.io/2024/,Tests and Proofs
 ICTAC 2024,"Bangkok, Thailand",14/21 June 2024,25-29 November 2024,https://ictac2024.cs.ait.ac.th/,International Colloquium on Theoretical Aspects of Computing
 MLCS 2024,"Vilnius, Lithuania",15 June 2024,9-13 September 2024,https://mlcs.lasige.di.fc.ul.pt/,Machine Learning for Cybersecurity
+LAP 2024,"Dubrovnik, Croatia",15 June 2024,23-27 September 2024,https://lap.math.hr/LAP2024/,Logic and Applications
 WISE 2024,"Doha, Qatar",20/30 June 2024,2-5 December 2024,https://wise2024-qatar.com/,Web Information Systems Engineering
 TIME 2024,"Montpellier, France",21 June 2024,28-30 October 2024,https://www.lirmm.fr/time2024/,Temporal Representation and Reasoning
 LPNMR 2024,"Dallas, Texas, USA",21/28 June 2024,11-14 October 2024,https://lpnmr2024.demacs.unical.it/,Logic Programming and Non-Monotonic Reasoning
@@ -35,13 +34,14 @@ FSTTCS 2024,"Gandhinagar, Gujarat, India",5 July 2024,16-18 December 2024,https:
 SODA  2025,"New Orleans, Lousiana, USA",5 July 2024,12-15 January 2025,https://www.siam.org/conferences/cm/conference/soda25,Symposium on Discrete Algorithms
 CSCML 2024,,6 or 7 July 2024,19-20 December 2024,https://www.cscml.org/,"Cyber Security, Cryptology and Machine Learning"
 NMR 2024,"Hanoi, Vietnam",7/12 July 2024,2-4 November 2024,https://nmr.krportal.org/2024/,Non-Monotonic Reasoning
-DSAA 2024,"San Diego, California, USA",6-10 October 2024,24 July 2024,,https://dsaa2024.dsaa.co/
 ICLP 2024,"Dallas, Texas, USA",8 July 2024,11-17 October 2024,https://www.iclp24.utdallas.edu/,International Conference on Logic Programming
 POPL 2025,"Denver, Colorado, USA",11 July 2024,19-25 January 2025,https://conf.researchr.org/home/POPL-2025,Principles of Programming Languages
 VSTTE 2024,"Prague, Czech Republic",18 July 2024,14-15 October 2024,https://www.soundandcomplete.org/vstte2024.html,"Verified Software: Theories, Tools, and Experiments"
+ALENEX 2025,"New Orleans, Lousiana, USA",18 July 2024,12-13 January 2025,https://www.siam.org/conferences/cm/conference/alenex25,Algorithm Engineering and Experiments
 CSL 2025,"Amsterdam, The Netherlands",18/23 July 2024,10-14 February 2025,https://csl2025.github.io/,Computer Science Logic
 ICDCN 2025,"Hyderabad, India",25 July 2024,4-7 January 2025,https://cse.iith.ac.in/icdcn-2025/,International Conference on Distributed Computing and Networking
 TERMGRAPH 2024,post-proceedings,1 August 2024,7 April 2024,http://termgraph.org.uk/2024/,Computing with Terms and Graphs
 KDD,???,1/8 August 2024,,https://kdd2024.kdd.org/,Knowledge Discovery and Data Mining
+SOSA 2025,"New Orleans, Lousiana, USA",5/8 August 2024,13-14 January 2025,https://www.siam.org/conferences/cm/conference/sosa25,Symposium on Simplicity in Algorithms
 WADT,post-proceedings,16 September 2024,,https://conf.researchr.org/home/wadt-2024,Workshop on Algebraic Development Techniques
 WALCOM 2025,"Chengdu, China",22 September 2024,28 February - 2 March 2025,https://tcsuestc.com/walcom2025,International Conference and Workshops on Algorithms and Computation
