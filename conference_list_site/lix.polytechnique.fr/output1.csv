@@ -1,14 +1,7 @@
 Conference,"City, Country",Deadline,Date,Notification,Submission format and comments,Website,Description
-SAGT 2024,"Amsterdam, The Netherlands",22/26 May 2024,3-6 September 2024,5 July 2024,"LNCS, 18 pages excluding references",https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/,Symposium on Algorithmic Game Theory
 FACS 2024,"Milan, Italy",23/30 May 2024,9-10 September 2024,3 July 2024,"LNCS, 16 pages full, 6 pages short, 16 pages special tract, all excluding references;
 	      co-located withFM",https://facs-conference.github.io/2024/,Formal Aspects of Component Software
 ADT 2024,"Piscataway, New Jersey, USA",24/31 May 2024,14-16 October 2024,19 July 2024,"LNCS, 15 pages",https://preflib.github.io/adt2024/,Algorithmic Decision Theory
-WABI 2024,"Egham, United Kingdom",26 May 2024,2-4 September 2024,30 June 2024,"LIPIcs,
-	      15 pages excluding front matter and references;
-	      part ofALGO",https://algo-conference.org/2024/wabi/,Workshop on Algorithms in Bioinformatics
-PoS   2024,"Pune, India",27 May 20245 June 2024,20 August 2024,23 June 2023,"CEURART, 1 column,
-	      15 pages long, 8 pages short, both excluding references,8 pages competition solver description;1st deadline for SAT fast track, 2nd deadline for competition solver descriptions;
-	      satellite event ofSAT",http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
 RP 2024,"Vienna, Austria",27/30 May 2024,25-27 September 2024,11 July 2024,"LNCS, 12 pages excluding references",https://easychair.org/smart-program/RP24/,Reachability Problems
 APLAS 2024,"Kyoto, Japan",31 May 2024,22-25 October 2024,2 August 2024,"LNCS, 17 pages excluding references",https://conf.researchr.org/home/aplas-2024,Asian Symposium on Programming Languages and Systems
 GD  2024,"Vienna, Austria",31 May / 7 June 2024,18-20 September 2024,20 July 2024,"LIPIcswithown LaTeX class,double-blind,
@@ -20,6 +13,9 @@ AAIM 2024,"Dallas, Texas. USA",1 June 2024,21-23 September 2024,1 July 2024,"LNC
 RuleML+RR 2024,"Bucharest, Romania",1/7 June 2024,16-18 September 2024,19 July 2024,"LNCS, 15 pages long, 8 pages short",https://2024.declarativeai.net/events/ruleml-rr,International Joint Conference on Rules and Reasoning
 JAF 2024,"Passau, Germany",2 June 2024,9-11 September 2024,2 July 2024,3 pages,https://www.uni-passau.de/en/jaf,Journées sur les Arithmétiques Faibles
 iFM 2024,"Manchester, UK",3/10 June 2024,13-15 November 2024,5 August 2024,"LNCS, 16 pages regular, 6 pages short",https://ifm2024.cs.manchester.ac.uk/,Integrated Formal Methods
+PoS   2024,"Pune, India",5 June 2024,20 August 2024,23 June 2023,"CEURART, 1 column,
+	      15 pages long, 8 pages short, both excluding references,8 pages competition solver description;deadline for competition solver descriptions;
+	      satellite event ofSAT",http://www.pragmaticsofsat.org/2024/,Pragmatics of SAT
 ALGOWIN 2024,"Egham, United Kingdom",7 June 2024,5-6 September 2024,1 August 2024,"LNCS,12 pages excluding referenes;
 	      part ofALGO",https://algo-conference.org/2024/algowin/,Algorithmic of Wireless Networks
 SEFM 2024,"Aveiro, Portugal",7/14 June 2024,4-8 November 2024,15 August 2024,"LNCS, 16 pages excludinge references regular, 8 pages tool",https://sefm-conference.github.io/2024/,Software Engineering and Formal Methods

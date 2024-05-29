@@ -27,6 +27,7 @@ Thư viện phải cài để chạy source này: (pip install)
     - pyyaml - Đọc API file YAML 
     - sqlalchemy - Xử lý SQL
     - mysql-connector-python - Connector dùng với MySQL (Cần cài MySQL)
+    - pypyodbc - Kết nối tới DB
 
 Tổ chức CSDL:
     - HoiNghi: Title (Tên hội nghị), City,Country (nơi tổ chức (thành phố)), Deadline (Deadline đăng kí (String)), Date (Ngày tháng năm (String)), Website (Web hội nghị), Description (Tên dài)

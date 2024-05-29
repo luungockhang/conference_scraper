@@ -1,3 +1,5 @@
+# Deprecated. Crawlers are stored in "crawlers" folder.
+
 from bs4 import BeautifulSoup
 import csv
 import requests
