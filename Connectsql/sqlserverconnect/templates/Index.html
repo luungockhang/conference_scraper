@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>List of conferences</title>
+</head>
+<body><center>
+    <h1>List Of Conferences</h1>
+    
+    <form method = POST action = "{% url 'search' %}">
+        {% csrf_token %}
+        <label for="fname">Search:</label>
+        <input type="text" id="fname" name="searched" value="">
+        <input type="submit" value="Search">
+    </form><br> 
+</hr>
+<table border="1">
+    <tr>
+        <th>Conference</th>
+        <th>City,Country</th>
+        <th>Deadline</th>
+        <th>Date</th>
+        <th>Website</th>
+        <th>Description</th>
+    </tr>
+    {% for datadisplay in sqlserverconn %}
+    <tr>
+        <td>{{datadisplay.Conference}}</td>
+        <td>{{datadisplay.CityCountry}}</td>
+        <td>{{datadisplay.Deadline}}</td>
+        <td>{{datadisplay.Date}}</td>
+        <td>{{datadisplay.Website}}</td>
+        <td>{{datadisplay.Decription}}</td>
+    </tr>
+    {% endfor %}
+</table>
+<center></body>
+</html>

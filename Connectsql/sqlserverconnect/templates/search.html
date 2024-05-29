@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body><center>
+    <h1>Result for searching:</h1><br/>
+<table border="1">
+    <tr>
+        <th>Conference</th>
+        <th>City,Country</th>
+        <th>Deadline</th>
+        <th>Date</th>
+        <th>Website</th>
+        <th>Description</th>
+    </tr>
+    {% for datadisplay in sqlserverconn %}
+    <tr>
+        <td>{{datadisplay.Conference}}</td>
+        <td>{{datadisplay.CityCountry}}</td>
+        <td>{{datadisplay.Deadline}}</td>
+        <td>{{datadisplay.Date}}</td>
+        <td>{{datadisplay.Website}}</td>
+        <td>{{datadisplay.Decription}}</td>
+    </tr>
+    {% endfor %}
+</table>
+<center></body>
+</html>
