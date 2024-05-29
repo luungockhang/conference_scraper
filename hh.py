@@ -6,6 +6,7 @@
 import pypyodbc as odbc
 import pandas as pd
 
+
 # Edit your database server info here
 DRIVER = 'SQL Server'
 SERVER_NAME = 'LAPTOP-FBH7ER7I\\CSDL_PRAC_SERVER'
@@ -23,9 +24,26 @@ def connection_string(driver,server_name,database_name):
 
 
 
+
 async def import_to_db():
     # import dataset from csv
-    df = pd.read_csv('final_output.csv') 
+    df = pd.read_csv('final_output.csv')
+
+    
+    #--Data clean up--
+    # Remove rows contain NaN values
+    df.dropna(inplace=True)
+
+    # Remove duplicate records
+    df.drop_duplicates(inplace=True)
+
+    # Clean string data
+    df['Conference'] = df['Conference'].str.strip().str.lower()
+    df['City,Country'] = df['City,Country'].str.strip().str.lower()
+    df['Deadline'] = df['Deadline'].str.strip().str.lower()
+    df['Date'] = df['Date'].str.strip().str.lower()
+    df['Website'] = df['Website'].str.strip().str.lower()
+    df['Description'] = df['Description'].str.strip().str.lower()
 
     # specify columns we want to import
     columns = ['Conference','City, Country','Deadline', 'Date', 'Website', 'Description']
