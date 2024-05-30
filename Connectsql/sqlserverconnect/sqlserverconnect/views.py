@@ -7,7 +7,7 @@ def search(request):
     if request.method == "POST":
         searched = request.POST.get("searched")
         conn = pyodbc.connect('Driver={SQL Server};'
-                              'Server=DESKTOP-TVR6JU9\MSSQLSERVER6;'
+                              'Server=LAPTOP-FBH7ER7I\CSDL_PRAC_SERVER;'
                               'Database=JJ;'
                               'Trusted_Connection=yes;')
         cursor = conn.cursor()
@@ -18,8 +18,8 @@ def search(request):
         return render(request, 'search.html', {'sqlserverconn': result})
     
 def connsql(request):
-    conn=pyodbc.connect('Driver={sql server};'
-                        'Server=DESKTOP-TVR6JU9\MSSQLSERVER6;'
+    conn=pyodbc.connect('Driver={SQL server};'
+                        'Server=LAPTOP-FBH7ER7I\CSDL_PRAC_SERVER;'
                         'Database=JJ;'
                         'Trusted_Connection=yes;')
     cursor=conn.cursor()

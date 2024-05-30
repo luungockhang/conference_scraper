@@ -12,6 +12,8 @@ Phía server:
 Phía client:
 1. Người dùng truy cập vào website host trên server để tương tác với bảng từ CSDL.
 
+- Cần làm trước khi chạy giao diện và crawler:
+    - Đổi tên database file hh.py và Connectsql\sqlserverconnect\manage.py
 
 - Cách vào trong link của table để lấy dữ liệu phụ. (optional)
 
@@ -29,7 +31,8 @@ Thư viện phải cài để chạy source này: (pip install)
     - mysql-connector-python - Connector dùng với MySQL (Cần cài MySQL)
     - pypyodbc - Kết nối tới DB
     - Django - framework giao diện
-    
+    - pyodbc - Dùng trong views.py
+
 Tổ chức CSDL:
     - HoiNghi: Title (Tên hội nghị), City,Country (nơi tổ chức (thành phố)), Deadline (Deadline đăng kí (String)), Date (Ngày tháng năm (String)), Website (Web hội nghị), Description (Tên dài)
 
