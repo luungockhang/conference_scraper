@@ -38,12 +38,12 @@ async def import_to_db():
     df.drop_duplicates(inplace=True)
 
     # Clean string data
-    df['Conference'] = df['Conference'].str.strip().str.lower()
-    df['City,Country'] = df['City,Country'].str.strip().str.lower()
-    df['Deadline'] = df['Deadline'].str.strip().str.lower()
-    df['Date'] = df['Date'].str.strip().str.lower()
-    df['Website'] = df['Website'].str.strip().str.lower()
-    df['Description'] = df['Description'].str.strip().str.lower()
+    df['Conference'] = df['Conference'].str.strip()
+    df['City, Country'] = df['City, Country'].str.strip()
+    df['Deadline'] = df['Deadline'].str.strip()
+    df['Date'] = df['Date'].str.strip()
+    df['Website'] = df['Website'].str.strip()
+    df['Description'] = df['Description'].str.strip()
 
     # specify columns we want to import
     columns = ['Conference','City, Country','Deadline', 'Date', 'Website', 'Description']
