@@ -70,6 +70,7 @@ async def import_to_db():
 
     try:
         cursor = conn.cursor()
+        cursor.execute('TRUNCATE TABLE Conferences')
         cursor.executemany(sql_insert,records)
         cursor.commit()
     except Exception as e:
