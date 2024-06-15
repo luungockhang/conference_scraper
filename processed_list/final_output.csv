@@ -1,7 +1,5 @@
 Conference,"City, Country",Deadline,Date,Website,Description
-FACS 2024,"Milan, Italy",23/30 May 2024,9-10 September 2024,https://facs-conference.github.io/2024/,Formal Aspects of Component Software
 ADT 2024,"Piscataway, New Jersey, USA",24/31 May 2024,14-16 October 2024,https://preflib.github.io/adt2024/,Algorithmic Decision Theory
-RP 2024,"Vienna, Austria",27/30 May 2024,25-27 September 2024,https://easychair.org/smart-program/RP24/,Reachability Problems
 APLAS 2024,"Kyoto, Japan",31 May 2024,22-25 October 2024,https://conf.researchr.org/home/aplas-2024,Asian Symposium on Programming Languages and Systems
 GD  2024,"Vienna, Austria",31 May / 7 June 2024,18-20 September 2024,https://graphdrawing.github.io/gd2024//,Graph Drawing
 LSFA 2024,"Goiânia, Brazil",31 May / 7 June 2024,18-20 September 2024,https://sites.google.com/ufg.br/lsfa2024,Logical and Semantic Frameworks with Applications
@@ -21,9 +19,9 @@ LAP 2024,"Dubrovnik, Croatia",15 June 2024,23-27 September 2024,https://lap.math
 WISE 2024,"Doha, Qatar",20/30 June 2024,2-5 December 2024,https://wise2024-qatar.com/,Web Information Systems Engineering
 TIME 2024,"Montpellier, France",21 June 2024,28-30 October 2024,https://www.lirmm.fr/time2024/,Temporal Representation and Reasoning
 LPNMR 2024,"Dallas, Texas, USA",21/28 June 2024,11-14 October 2024,https://lpnmr2024.demacs.unical.it/,Logic Programming and Non-Monotonic Reasoning
+RP 2024,"Vienna, Austria",24/26 June 2024,25-27 September 2024,https://easychair.org/smart-program/RP24/,Reachability Problems
 IPEC 2024,"Egham, United Kingdom",26/30 June 2024,4-6 September 2024,https://algo-conference.org/2024/ipec/,International Symposium on Parameterized and Exact Computation
 ISAAC 2024,"Sydney, Australia",28 June 2024,8-12 December 2024,https://sites.google.com/view/isaac2024/,International Symposium on Algorithms and Computation
-FedCSIS 2024,"Belgrade, Serbia",28 May 2024,8-11 September 2024,https://2024.fedcsis.org/,Federated Conference on Computer Science and Information Systems
 ATMOS 2024,"Egham, United Kingdom",30 June 2024,5-6 September 2024,https://algo-conference.org/2024/atmos/,"Algorithmic Approaches for Transportation Modelling, Optimization, and Systems"
 ALGOCLOUD 2024,"Egham, United Kingdom",1 July 2024,2-3 September 2024,https://algo-conference.org/2024/algocloud/,Algorithms for Cloud-Based Systems
 ICTAI 2024,"Herndon, Virginia, USA",1 July 2024,28-30 October 2024,https://ictai.computer.org/2024/,International Conference on Tools with Artificial Intelligence
@@ -43,10 +41,7 @@ KDD,???,1/8 August 2024,,https://kdd2024.kdd.org/,Knowledge Discovery and Data M
 SOSA 2025,"New Orleans, Lousiana, USA",5/8 August 2024,13-14 January 2025,https://www.siam.org/conferences/cm/conference/sosa25,Symposium on Simplicity in Algorithms
 WADT,post-proceedings,16 September 2024,,https://conf.researchr.org/home/wadt-2024,Workshop on Algebraic Development Techniques
 WALCOM 2025,"Chengdu, China",22 September 2024,28 February - 2 March 2025,https://tcsuestc.com/walcom2025,International Conference and Workshops on Algorithms and Computation
-EUROCRYPT,"Zurich, Switzerland",,26-30 May 2024,https://eurocrypt.iacr.org/2024/,Theory and Applications of Cryptographic Techniques
-LPAR,Mauritius,,26-31 May 2024,https://easychair.org/smart-program/LPAR2024/,"Logic for Programming, Artificial Intelligence and Reasoning"
-CPAIOR,"Uppsala, Sweden",,28-31 May 2024,https://sites.google.com/view/cpaior2024,"Integration of Constraint Programming, Artificial Intelligence, and Operations Research"
-ICAPS 2024,"Banf, Alberta, Canada",,1-5 June 2024,https://icaps24.icaps-conference.org/,International Conference on Automated Planning and Scheduling
+ICAPS,"Banf, Alberta, Canada",,1-5 June 2024,https://icaps24.icaps-conference.org/,International Conference on Automated Planning and Scheduling
 HALG 2024,"Warsaw, Poland",,3-5 June 2024,https://halg2024.ideas-ncbr.pl/,Highlights of Algorithms
 NFM 2024,"Moffett Field, California, USA",,4-6 June 2024,https://conf.researchr.org/home/nfm-2024,NASA Formal Methods
 FUN 2024,"La Maddalena Island, Sardinia, Italy",,4-8 June 2024,https://sites.google.com/unipi.it/fun2024/,Fun With Algorithms
@@ -134,6 +129,8 @@ ICFP 2024,"Milan, Italy",,2-7 September 2024,https://icfp24.sigplan.org/,Interna
 CIAA 2024,"Akita, Japan",,3-6 September 2024,http://www.math.akita-u.ac.jp/ciaa2024/,Conference on Implementation and Application of Automata
 SAGT 2024,"Amsterdam, The Netherlands",,3-6 September 2024,https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/,Symposium on Algorithmic Game Theory
 NCL 2024,"Łódż, Poland",,5-8 September 2024,https://easychair.org/smart-program/NCL'24/,Non-Classical Logics
+FedCSIS 2024,"Belgrade, Serbia",,8-11 September 2024,https://2024.fedcsis.org/,Federated Conference on Computer Science and Information Systems
+FACS 2024,"Milan, Italy",,9-10 September 2024,https://facs-conference.github.io/2024/,Formal Aspects of Component Software
 MATCH-UP 2024,"Oxford, United Kingdom",,9-11 September 2024,https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/,Matching Under Preferences
 FMICS 2024,"Milan, Italy",,9-11 September 2024,https://fmics.inria.fr/2024/,Formal Methods for Industrial Critical Systems
 LOPSTR 2024,"Milan, Italy",,9-11 September 2024,https://lopstr.github.io/2024/,Logic-Based Program Synthesis and Transformation
@@ -690,6 +687,8 @@ AISTATS 2022,"Valencia, Spain","Deadline: 2021-10-15 11:59:00
 ","March 30 - April 1, 2022",https://aistats.org/aistats2022/,International Conference on Artificial Intelligence and Statistics
 AISTATS 2024,"Valencia, Spain","Deadline: 2023-10-16 23:59:59
 ","May 2-4, 2024",https://aistats.org/aistats2024/,International Conference on Artificial Intelligence and Statistics
+PRICAI 2024,"Kyoto, Japan","Deadline: 2024-06-12 23:59:59
+","Nov 18-24, 2024",https://www.pricai.org/2024/,Pacific Rim International Conference on Artificial Intelligence
 COLING 2022,"Gyeongju, Republic of Korea","Deadline: 2022-05-17 23:59:00
 Comment: Papers Due
 ","June 12-17, 2022",https://coling2022.org/,INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS
